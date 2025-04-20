@@ -1,0 +1,173 @@
+Army 1
+    Unit: 0
+    Name: Belo
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+
+Army 2
+    Unit: 0
+    Name: Brano
+    HP: 100
+    Item 1: crossbow,5,1,2,3,0
+
+Round 1
+1: Belo,100 
+2: Brano,100 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,95 
+2: Brano,97 
+
+Round 2
+1: Belo,95 
+2: Brano,97 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,90 
+2: Brano,94 
+
+Round 3
+1: Belo,90 
+2: Brano,94 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,85 
+2: Brano,91 
+
+Round 4
+1: Belo,85 
+2: Brano,91 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,80 
+2: Brano,88 
+
+Round 5
+1: Belo,80 
+2: Brano,88 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,75 
+2: Brano,85 
+
+Round 6
+1: Belo,75 
+2: Brano,85 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,70 
+2: Brano,82 
+
+Round 7
+1: Belo,70 
+2: Brano,82 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,65 
+2: Brano,79 
+
+Round 8
+1: Belo,65 
+2: Brano,79 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,60 
+2: Brano,76 
+
+Round 9
+1: Belo,60 
+2: Brano,76 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,55 
+2: Brano,73 
+
+Round 10
+1: Belo,55 
+2: Brano,73 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,50 
+2: Brano,70 
+
+Round 11
+1: Belo,50 
+2: Brano,70 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,45 
+2: Brano,67 
+
+Round 12
+1: Belo,45 
+2: Brano,67 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,40 
+2: Brano,64 
+
+Round 13
+1: Belo,40 
+2: Brano,64 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,35 
+2: Brano,61 
+
+Round 14
+1: Belo,35 
+2: Brano,61 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,30 
+2: Brano,58 
+
+Round 15
+1: Belo,30 
+2: Brano,58 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,25 
+2: Brano,55 
+
+Round 16
+1: Belo,25 
+2: Brano,55 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,20 
+2: Brano,52 
+
+Round 17
+1: Belo,20 
+2: Brano,52 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,15 
+2: Brano,49 
+
+Round 18
+1: Belo,15 
+2: Brano,49 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,10 
+2: Brano,46 
+
+Round 19
+1: Belo,10 
+2: Brano,46 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: Belo,5 
+2: Brano,43 
+
+Round 20
+1: Belo,5 
+2: Brano,43 
+1,Belo,dagger:       [Brano,3] 
+2,Brano,crossbow:    [Belo,5] 
+1: 
+2: Brano,40 
+
+WINNER: 2

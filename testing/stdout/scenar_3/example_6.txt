@@ -1,0 +1,122 @@
+Army 1
+    Unit: 0
+    Name: Sergej
+    HP: 100
+    Item 1: aura,0,8,1,0,0
+    Item 2: sword,9,2,1,0,0
+
+Army 2
+    Unit: 0
+    Name: Teo
+    HP: 100
+    Item 1: crossbow,5,1,2,3,0
+
+Round 1
+1: Sergej,100 
+2: Teo,100 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,99 
+2: Teo,91 
+
+Round 2
+1: Sergej,99 
+2: Teo,91 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,98 
+2: Teo,82 
+
+Round 3
+1: Sergej,98 
+2: Teo,82 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,97 
+2: Teo,73 
+
+Round 4
+1: Sergej,97 
+2: Teo,73 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,96 
+2: Teo,64 
+
+Round 5
+1: Sergej,96 
+2: Teo,64 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,95 
+2: Teo,55 
+
+Round 6
+1: Sergej,95 
+2: Teo,55 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,94 
+2: Teo,46 
+
+Round 7
+1: Sergej,94 
+2: Teo,46 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,93 
+2: Teo,37 
+
+Round 8
+1: Sergej,93 
+2: Teo,37 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,92 
+2: Teo,28 
+
+Round 9
+1: Sergej,92 
+2: Teo,28 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,91 
+2: Teo,19 
+
+Round 10
+1: Sergej,91 
+2: Teo,19 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,90 
+2: Teo,10 
+
+Round 11
+1: Sergej,90 
+2: Teo,10 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,89 
+2: Teo,1 
+
+Round 12
+1: Sergej,89 
+2: Teo,1 
+1,Sergej,aura:       [Teo,1] 
+1,Sergej,sword:      [Teo,8] 
+2,Teo,crossbow:      [Sergej,1] 
+1: Sergej,88 
+2: 
+
+WINNER: 1

@@ -1,0 +1,34 @@
+Army 1
+    Unit: 0
+    Name: Oto
+    HP: 100
+    Item 1: aura,0,8,1,0,0
+    Item 2: aura,0,8,1,0,0
+
+Army 2
+    Unit: 0
+    Name: Dusan
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+
+    Unit: 1
+    Name: Dezo
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 2
+    Name: Erik
+    HP: 100
+    Item 1: gloves,1,4,1,0,0
+    Item 2: helmet,1,5,1,0,0
+
+    Unit: 3
+    Name: Emil
+    HP: 100
+    Item 1: cannon,12,0,2,4,4
+
+    Unit: 4
+    Name: Marcel
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+    Item 2: sword,9,2,1,0,0

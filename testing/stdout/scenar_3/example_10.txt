@@ -1,0 +1,285 @@
+Army 1
+    Unit: 0
+    Name: Kain
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+
+Army 2
+    Unit: 0
+    Name: Abel
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+
+Round 1
+1: Kain,100 
+2: Abel,100 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,97 
+2: Abel,97 
+
+Round 2
+1: Kain,97 
+2: Abel,97 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,94 
+2: Abel,94 
+
+Round 3
+1: Kain,94 
+2: Abel,94 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,91 
+2: Abel,91 
+
+Round 4
+1: Kain,91 
+2: Abel,91 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,88 
+2: Abel,88 
+
+Round 5
+1: Kain,88 
+2: Abel,88 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,85 
+2: Abel,85 
+
+Round 6
+1: Kain,85 
+2: Abel,85 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,82 
+2: Abel,82 
+
+Round 7
+1: Kain,82 
+2: Abel,82 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,79 
+2: Abel,79 
+
+Round 8
+1: Kain,79 
+2: Abel,79 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,76 
+2: Abel,76 
+
+Round 9
+1: Kain,76 
+2: Abel,76 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,73 
+2: Abel,73 
+
+Round 10
+1: Kain,73 
+2: Abel,73 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,70 
+2: Abel,70 
+
+Round 11
+1: Kain,70 
+2: Abel,70 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,67 
+2: Abel,67 
+
+Round 12
+1: Kain,67 
+2: Abel,67 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,64 
+2: Abel,64 
+
+Round 13
+1: Kain,64 
+2: Abel,64 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,61 
+2: Abel,61 
+
+Round 14
+1: Kain,61 
+2: Abel,61 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,58 
+2: Abel,58 
+
+Round 15
+1: Kain,58 
+2: Abel,58 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,55 
+2: Abel,55 
+
+Round 16
+1: Kain,55 
+2: Abel,55 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,52 
+2: Abel,52 
+
+Round 17
+1: Kain,52 
+2: Abel,52 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,49 
+2: Abel,49 
+
+Round 18
+1: Kain,49 
+2: Abel,49 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,46 
+2: Abel,46 
+
+Round 19
+1: Kain,46 
+2: Abel,46 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,43 
+2: Abel,43 
+
+Round 20
+1: Kain,43 
+2: Abel,43 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,40 
+2: Abel,40 
+
+Round 21
+1: Kain,40 
+2: Abel,40 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,37 
+2: Abel,37 
+
+Round 22
+1: Kain,37 
+2: Abel,37 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,34 
+2: Abel,34 
+
+Round 23
+1: Kain,34 
+2: Abel,34 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,31 
+2: Abel,31 
+
+Round 24
+1: Kain,31 
+2: Abel,31 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,28 
+2: Abel,28 
+
+Round 25
+1: Kain,28 
+2: Abel,28 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,25 
+2: Abel,25 
+
+Round 26
+1: Kain,25 
+2: Abel,25 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,22 
+2: Abel,22 
+
+Round 27
+1: Kain,22 
+2: Abel,22 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,19 
+2: Abel,19 
+
+Round 28
+1: Kain,19 
+2: Abel,19 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,16 
+2: Abel,16 
+
+Round 29
+1: Kain,16 
+2: Abel,16 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,13 
+2: Abel,13 
+
+Round 30
+1: Kain,13 
+2: Abel,13 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,10 
+2: Abel,10 
+
+Round 31
+1: Kain,10 
+2: Abel,10 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,7 
+2: Abel,7 
+
+Round 32
+1: Kain,7 
+2: Abel,7 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,4 
+2: Abel,4 
+
+Round 33
+1: Kain,4 
+2: Abel,4 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: Kain,1 
+2: Abel,1 
+
+Round 34
+1: Kain,1 
+2: Abel,1 
+1,Kain,rock:         [Abel,3] 
+2,Abel,rock:         [Kain,3] 
+1: 
+2: 
+
+NO WINNER

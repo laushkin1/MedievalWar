@@ -1,0 +1,10 @@
+3
+peter sword
+john dagger wand
+mike sword
+5
+tim crossbow
+paul fireball rock armor
+ivan wand gloves
+igor axe
+robo slingshot

@@ -1,0 +1,234 @@
+Army 1
+    Unit: 0
+    Name: Gitus
+    HP: 100
+    Item 1: gloves,1,4,1,0,0
+    Item 2: fireball,11,0,1,3,3
+
+    Unit: 1
+    Name: Rimus
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+
+    Unit: 2
+    Name: Axus
+    HP: 100
+    Item 1: aura,0,8,1,0,0
+
+    Unit: 3
+    Name: Fenus
+    HP: 100
+    Item 1: aura,0,8,1,0,0
+
+    Unit: 4
+    Name: Lupus
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: spear,6,1,1,1,1
+
+Army 2
+    Unit: 0
+    Name: Sirus
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: gloves,1,4,1,0,0
+
+    Unit: 1
+    Name: Betis
+    HP: 100
+    Item 1: helmet,1,5,1,0,0
+    Item 2: dagger,4,0,1,0,0
+
+    Unit: 2
+    Name: Gelis
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+    Item 2: gloves,1,4,1,0,0
+
+    Unit: 3
+    Name: Samir
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+
+    Unit: 4
+    Name: Ruben
+    HP: 100
+    Item 1: spear,6,1,1,1,1
+
+Round 1
+1: Gitus,100 Rimus,100 Axus,100 Fenus,100 Lupus,100 
+2: Sirus,100 Betis,100 Gelis,100 Samir,100 Ruben,100 
+1,Gitus,gloves:      [Sirus,1] 
+1,Gitus,fireball:    [Sirus,7] [Betis,6] [Gelis,7] [Samir,11] 
+1,Lupus,wand:        [Sirus,8] [Betis,7] [Gelis,8] 
+2,Sirus,fireball:    [Gitus,7] [Rimus,11] [Axus,3] [Fenus,3] 
+2,Sirus,gloves:      [Gitus,1] 
+2,Gelis,rock:        [Gitus,1] [Rimus,3] 
+2,Samir,fireball:    [Gitus,7] [Rimus,11] [Axus,3] [Fenus,3] 
+1: Gitus,84 Rimus,75 Axus,94 Fenus,94 Lupus,100 
+2: Sirus,84 Betis,87 Gelis,85 Samir,89 Ruben,100 
+
+Round 2
+1: Gitus,84 Rimus,75 Axus,94 Fenus,94 Lupus,100 
+2: Sirus,84 Betis,87 Gelis,85 Samir,89 Ruben,100 
+1,Gitus,gloves:      [Sirus,1] 
+1,Gitus,fireball:    [Sirus,7] [Betis,6] [Gelis,7] [Samir,11] 
+1,Lupus,wand:        [Sirus,8] [Betis,7] [Gelis,8] 
+2,Sirus,fireball:    [Gitus,7] [Rimus,11] [Axus,3] [Fenus,3] 
+2,Sirus,gloves:      [Gitus,1] 
+2,Gelis,rock:        [Gitus,1] [Rimus,3] 
+2,Samir,fireball:    [Gitus,7] [Rimus,11] [Axus,3] [Fenus,3] 
+1: Gitus,68 Rimus,50 Axus,88 Fenus,88 Lupus,100 
+2: Sirus,68 Betis,74 Gelis,70 Samir,78 Ruben,100 
+
+Round 3
+1: Gitus,68 Rimus,50 Axus,88 Fenus,88 Lupus,100 
+2: Sirus,68 Betis,74 Gelis,70 Samir,78 Ruben,100 
+1,Gitus,gloves:      [Sirus,1] 
+1,Gitus,fireball:    [Sirus,7] [Betis,6] [Gelis,7] [Samir,11] 
+1,Lupus,wand:        [Sirus,8] [Betis,7] [Gelis,8] 
+2,Sirus,fireball:    [Gitus,7] [Rimus,11] [Axus,3] [Fenus,3] 
+2,Sirus,gloves:      [Gitus,1] 
+2,Gelis,rock:        [Gitus,1] [Rimus,3] 
+2,Samir,fireball:    [Gitus,7] [Rimus,11] [Axus,3] [Fenus,3] 
+1: Gitus,52 Rimus,25 Axus,82 Fenus,82 Lupus,100 
+2: Sirus,52 Betis,61 Gelis,55 Samir,67 Ruben,100 
+
+Round 4
+1: Gitus,52 Rimus,25 Axus,82 Fenus,82 Lupus,100 
+2: Sirus,52 Betis,61 Gelis,55 Samir,67 Ruben,100 
+1,Gitus,gloves:      [Sirus,1] 
+1,Gitus,fireball:    [Sirus,7] [Betis,6] [Gelis,7] [Samir,11] 
+1,Lupus,wand:        [Sirus,8] [Betis,7] [Gelis,8] 
+2,Sirus,fireball:    [Gitus,7] [Rimus,11] [Axus,3] [Fenus,3] 
+2,Sirus,gloves:      [Gitus,1] 
+2,Gelis,rock:        [Gitus,1] [Rimus,3] 
+2,Samir,fireball:    [Gitus,7] [Rimus,11] [Axus,3] [Fenus,3] 
+1: Gitus,36 Axus,76 Fenus,76 Lupus,100 
+2: Sirus,36 Betis,48 Gelis,40 Samir,56 Ruben,100 
+
+Round 5
+1: Gitus,36 Axus,76 Fenus,76 Lupus,100 
+2: Sirus,36 Betis,48 Gelis,40 Samir,56 Ruben,100 
+1,Gitus,gloves:      [Sirus,1] 
+1,Gitus,fireball:    [Sirus,7] [Betis,6] [Gelis,7] [Samir,11] 
+1,Lupus,wand:        [Sirus,8] [Betis,7] [Gelis,8] 
+2,Sirus,fireball:    [Gitus,7] [Axus,3] [Fenus,3] [Lupus,6] 
+2,Sirus,gloves:      [Gitus,1] 
+2,Gelis,rock:        [Gitus,1] [Axus,1] 
+2,Samir,fireball:    [Gitus,7] [Axus,3] [Fenus,3] [Lupus,6] 
+1: Gitus,20 Axus,69 Fenus,70 Lupus,88 
+2: Sirus,20 Betis,35 Gelis,25 Samir,45 Ruben,100 
+
+Round 6
+1: Gitus,20 Axus,69 Fenus,70 Lupus,88 
+2: Sirus,20 Betis,35 Gelis,25 Samir,45 Ruben,100 
+1,Gitus,gloves:      [Sirus,1] 
+1,Gitus,fireball:    [Sirus,7] [Betis,6] [Gelis,7] [Samir,11] 
+1,Lupus,wand:        [Sirus,8] [Betis,7] [Gelis,8] 
+2,Sirus,fireball:    [Gitus,7] [Axus,3] [Fenus,3] [Lupus,6] 
+2,Sirus,gloves:      [Gitus,1] 
+2,Gelis,rock:        [Gitus,1] [Axus,1] 
+2,Samir,fireball:    [Gitus,7] [Axus,3] [Fenus,3] [Lupus,6] 
+1: Gitus,4 Axus,62 Fenus,64 Lupus,76 
+2: Sirus,4 Betis,22 Gelis,10 Samir,34 Ruben,100 
+
+Round 7
+1: Gitus,4 Axus,62 Fenus,64 Lupus,76 
+2: Sirus,4 Betis,22 Gelis,10 Samir,34 Ruben,100 
+1,Gitus,gloves:      [Sirus,1] 
+1,Gitus,fireball:    [Sirus,7] [Betis,6] [Gelis,7] [Samir,11] 
+1,Lupus,wand:        [Sirus,8] [Betis,7] [Gelis,8] 
+2,Sirus,fireball:    [Gitus,7] [Axus,3] [Fenus,3] [Lupus,6] 
+2,Sirus,gloves:      [Gitus,1] 
+2,Gelis,rock:        [Gitus,1] [Axus,1] 
+2,Samir,fireball:    [Gitus,7] [Axus,3] [Fenus,3] [Lupus,6] 
+1: Axus,55 Fenus,58 Lupus,64 
+2: Betis,9 Samir,23 Ruben,100 
+
+Round 8
+1: Axus,55 Fenus,58 Lupus,64 
+2: Betis,9 Samir,23 Ruben,100 
+1,Axus,aura:         [Betis,1] 
+1,Lupus,wand:        [Betis,7] [Samir,12] [Ruben,11] 
+2,Betis,helmet:      [Axus,1] 
+2,Betis,dagger:      [Axus,1] 
+2,Samir,fireball:    [Axus,3] [Fenus,3] [Lupus,6] 
+1: Axus,50 Fenus,55 Lupus,58 
+2: Betis,1 Samir,11 Ruben,89 
+
+Round 9
+1: Axus,50 Fenus,55 Lupus,58 
+2: Betis,1 Samir,11 Ruben,89 
+1,Axus,aura:         [Betis,1] 
+1,Lupus,wand:        [Betis,7] [Samir,12] [Ruben,11] 
+2,Betis,helmet:      [Axus,1] 
+2,Betis,dagger:      [Axus,1] 
+2,Samir,fireball:    [Axus,3] [Fenus,3] [Lupus,6] 
+1: Axus,45 Fenus,52 Lupus,52 
+2: Ruben,78 
+
+Round 10
+1: Axus,45 Fenus,52 Lupus,52 
+2: Ruben,78 
+1,Axus,aura:         [Ruben,1] 
+1,Lupus,wand:        [Ruben,11] 
+2,Ruben,spear:       [Axus,1] [Fenus,1] 
+1: Axus,44 Fenus,51 Lupus,52 
+2: Ruben,66 
+
+Round 11
+1: Axus,44 Fenus,51 Lupus,52 
+2: Ruben,66 
+1,Axus,aura:         [Ruben,1] 
+1,Lupus,wand:        [Ruben,11] 
+2,Ruben,spear:       [Axus,1] [Fenus,1] 
+1: Axus,43 Fenus,50 Lupus,52 
+2: Ruben,54 
+
+Round 12
+1: Axus,43 Fenus,50 Lupus,52 
+2: Ruben,54 
+1,Axus,aura:         [Ruben,1] 
+1,Lupus,wand:        [Ruben,11] 
+2,Ruben,spear:       [Axus,1] [Fenus,1] 
+1: Axus,42 Fenus,49 Lupus,52 
+2: Ruben,42 
+
+Round 13
+1: Axus,42 Fenus,49 Lupus,52 
+2: Ruben,42 
+1,Axus,aura:         [Ruben,1] 
+1,Lupus,wand:        [Ruben,11] 
+2,Ruben,spear:       [Axus,1] [Fenus,1] 
+1: Axus,41 Fenus,48 Lupus,52 
+2: Ruben,30 
+
+Round 14
+1: Axus,41 Fenus,48 Lupus,52 
+2: Ruben,30 
+1,Axus,aura:         [Ruben,1] 
+1,Lupus,wand:        [Ruben,11] 
+2,Ruben,spear:       [Axus,1] [Fenus,1] 
+1: Axus,40 Fenus,47 Lupus,52 
+2: Ruben,18 
+
+Round 15
+1: Axus,40 Fenus,47 Lupus,52 
+2: Ruben,18 
+1,Axus,aura:         [Ruben,1] 
+1,Lupus,wand:        [Ruben,11] 
+2,Ruben,spear:       [Axus,1] [Fenus,1] 
+1: Axus,39 Fenus,46 Lupus,52 
+2: Ruben,6 
+
+Round 16
+1: Axus,39 Fenus,46 Lupus,52 
+2: Ruben,6 
+1,Axus,aura:         [Ruben,1] 
+1,Lupus,wand:        [Ruben,11] 
+2,Ruben,spear:       [Axus,1] [Fenus,1] 
+1: Axus,38 Fenus,45 Lupus,52 
+2: 
+
+WINNER: 1

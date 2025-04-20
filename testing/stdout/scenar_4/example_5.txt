@@ -1,0 +1,157 @@
+Army 1
+    Unit: 0
+    Name: Izidor
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+
+    Unit: 1
+    Name: Igor
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 2
+    Name: Ilja
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: spear,6,1,1,1,1
+
+    Unit: 3
+    Name: Jardo
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+
+Army 2
+    Unit: 0
+    Name: Julo
+    HP: 100
+    Item 1: cannon,12,0,2,4,4
+
+    Unit: 1
+    Name: Kajo
+    HP: 100
+    Item 1: aura,0,8,1,0,0
+    Item 2: fireball,11,0,1,3,3
+
+Round 1
+1: Izidor,100 Igor,100 Ilja,100 Jardo,100 
+2: Julo,100 Kajo,100 
+1,Izidor,sword:      [Julo,9] 
+1,Igor,axe:          [Julo,10] [Kajo,2] 
+1,Ilja,fireball:     [Julo,11] [Kajo,3] 
+1,Jardo,wand:        [Julo,12] [Kajo,4] 
+2,Julo,cannon:       [Izidor,10] [Igor,10] [Ilja,11] [Jardo,8] 
+2,Kajo,fireball:     [Izidor,9] [Igor,9] [Ilja,10] [Jardo,7] 
+1: Izidor,81 Igor,81 Ilja,79 Jardo,85 
+2: Julo,58 Kajo,91 
+
+Round 2
+1: Izidor,81 Igor,81 Ilja,79 Jardo,85 
+2: Julo,58 Kajo,91 
+1,Izidor,sword:      [Julo,9] 
+1,Igor,axe:          [Julo,10] [Kajo,2] 
+1,Ilja,fireball:     [Julo,11] [Kajo,3] 
+1,Jardo,wand:        [Julo,12] [Kajo,4] 
+2,Julo,cannon:       [Izidor,10] [Igor,10] [Ilja,11] [Jardo,8] 
+2,Kajo,fireball:     [Izidor,9] [Igor,9] [Ilja,10] [Jardo,7] 
+1: Izidor,62 Igor,62 Ilja,58 Jardo,70 
+2: Julo,16 Kajo,82 
+
+Round 3
+1: Izidor,62 Igor,62 Ilja,58 Jardo,70 
+2: Julo,16 Kajo,82 
+1,Izidor,sword:      [Julo,9] 
+1,Igor,axe:          [Julo,10] [Kajo,2] 
+1,Ilja,fireball:     [Julo,11] [Kajo,3] 
+1,Jardo,wand:        [Julo,12] [Kajo,4] 
+2,Julo,cannon:       [Izidor,10] [Igor,10] [Ilja,11] [Jardo,8] 
+2,Kajo,fireball:     [Izidor,9] [Igor,9] [Ilja,10] [Jardo,7] 
+1: Izidor,43 Igor,43 Ilja,37 Jardo,55 
+2: Kajo,73 
+
+Round 4
+1: Izidor,43 Igor,43 Ilja,37 Jardo,55 
+2: Kajo,73 
+1,Izidor,sword:      [Kajo,1] 
+1,Igor,axe:          [Kajo,2] 
+1,Ilja,fireball:     [Kajo,3] 
+1,Jardo,wand:        [Kajo,4] 
+2,Kajo,aura:         [Izidor,1] 
+2,Kajo,fireball:     [Izidor,9] [Igor,9] [Ilja,10] [Jardo,7] 
+1: Izidor,33 Igor,34 Ilja,27 Jardo,48 
+2: Kajo,63 
+
+Round 5
+1: Izidor,33 Igor,34 Ilja,27 Jardo,48 
+2: Kajo,63 
+1,Izidor,sword:      [Kajo,1] 
+1,Igor,axe:          [Kajo,2] 
+1,Ilja,fireball:     [Kajo,3] 
+1,Jardo,wand:        [Kajo,4] 
+2,Kajo,aura:         [Izidor,1] 
+2,Kajo,fireball:     [Izidor,9] [Igor,9] [Ilja,10] [Jardo,7] 
+1: Izidor,23 Igor,25 Ilja,17 Jardo,41 
+2: Kajo,53 
+
+Round 6
+1: Izidor,23 Igor,25 Ilja,17 Jardo,41 
+2: Kajo,53 
+1,Izidor,sword:      [Kajo,1] 
+1,Igor,axe:          [Kajo,2] 
+1,Ilja,fireball:     [Kajo,3] 
+1,Jardo,wand:        [Kajo,4] 
+2,Kajo,aura:         [Izidor,1] 
+2,Kajo,fireball:     [Izidor,9] [Igor,9] [Ilja,10] [Jardo,7] 
+1: Izidor,13 Igor,16 Ilja,7 Jardo,34 
+2: Kajo,43 
+
+Round 7
+1: Izidor,13 Igor,16 Ilja,7 Jardo,34 
+2: Kajo,43 
+1,Izidor,sword:      [Kajo,1] 
+1,Igor,axe:          [Kajo,2] 
+1,Ilja,fireball:     [Kajo,3] 
+1,Jardo,wand:        [Kajo,4] 
+2,Kajo,aura:         [Izidor,1] 
+2,Kajo,fireball:     [Izidor,9] [Igor,9] [Ilja,10] [Jardo,7] 
+1: Izidor,3 Igor,7 Jardo,27 
+2: Kajo,33 
+
+Round 8
+1: Izidor,3 Igor,7 Jardo,27 
+2: Kajo,33 
+1,Izidor,sword:      [Kajo,1] 
+1,Igor,axe:          [Kajo,2] 
+1,Jardo,wand:        [Kajo,4] 
+2,Kajo,aura:         [Izidor,1] 
+2,Kajo,fireball:     [Izidor,9] [Igor,9] [Jardo,7] 
+1: Jardo,20 
+2: Kajo,26 
+
+Round 9
+1: Jardo,20 
+2: Kajo,26 
+1,Jardo,wand:        [Kajo,4] 
+2,Kajo,aura:         [Jardo,1] 
+2,Kajo,fireball:     [Jardo,7] 
+1: Jardo,12 
+2: Kajo,22 
+
+Round 10
+1: Jardo,12 
+2: Kajo,22 
+1,Jardo,wand:        [Kajo,4] 
+2,Kajo,aura:         [Jardo,1] 
+2,Kajo,fireball:     [Jardo,7] 
+1: Jardo,4 
+2: Kajo,18 
+
+Round 11
+1: Jardo,4 
+2: Kajo,18 
+1,Jardo,wand:        [Kajo,4] 
+2,Kajo,aura:         [Jardo,1] 
+2,Kajo,fireball:     [Jardo,7] 
+1: 
+2: Kajo,14 
+
+WINNER: 2

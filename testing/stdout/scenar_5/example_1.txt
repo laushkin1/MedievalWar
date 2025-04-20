@@ -1,0 +1,59 @@
+Army 1
+    Unit: 0
+    Name: Rudo
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: fireball,11,0,1,3,3
+
+Army 2
+    Unit: 0
+    Name: Samo
+    HP: 100
+    Item 1: crossbow,5,1,2,3,0
+
+Round 1
+1: Rudo,100 
+2: Samo,100 
+1,Rudo,fireball:     [Samo,10] 
+1,Rudo,fireball:     [Samo,10] 
+2,Samo,crossbow:     [Rudo,5] 
+1: Rudo,95 
+2: Samo,80 
+
+Round 2
+1: Rudo,95 
+2: Samo,80 
+1,Rudo,fireball:     [Samo,10] 
+1,Rudo,fireball:     [Samo,10] 
+2,Samo,crossbow:     [Rudo,5] 
+1: Rudo,90 
+2: Samo,60 
+
+Round 3
+1: Rudo,90 
+2: Samo,60 
+1,Rudo,fireball:     [Samo,10] 
+1,Rudo,fireball:     [Samo,10] 
+2,Samo,crossbow:     [Rudo,5] 
+1: Rudo,85 
+2: Samo,40 
+
+Round 4
+1: Rudo,85 
+2: Samo,40 
+1,Rudo,fireball:     [Samo,10] 
+1,Rudo,fireball:     [Samo,10] 
+2,Samo,crossbow:     [Rudo,5] 
+1: Rudo,80 
+2: Samo,20 
+
+Round 5
+1: Rudo,80 
+2: Samo,20 
+1,Rudo,fireball:     [Samo,10] 
+1,Rudo,fireball:     [Samo,10] 
+2,Samo,crossbow:     [Rudo,5] 
+1: Rudo,75 
+2: 
+
+WINNER: 1

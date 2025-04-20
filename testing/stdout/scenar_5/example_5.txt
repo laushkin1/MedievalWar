@@ -1,0 +1,110 @@
+Army 1
+    Unit: 0
+    Name: Vlado
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: dagger,4,0,1,0,0
+
+    Unit: 1
+    Name: Vlasto
+    HP: 100
+    Item 1: slingshot,2,0,2,2,1
+
+    Unit: 2
+    Name: Vojto
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: helmet,1,5,1,0,0
+
+Army 2
+    Unit: 0
+    Name: Vrato
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+    Item 2: wand,12,4,1,4,2
+
+Round 1
+1: Vlado,100 Vlasto,100 Vojto,100 
+2: Vrato,100 
+1,Vlado,fireball:    [Vrato,7] 
+1,Vlado,dagger:      [Vrato,1] 
+1,Vlasto,slingshot:  [Vrato,1] 
+1,Vojto,fireball:    [Vrato,7] 
+2,Vrato,rock:        [Vlado,3] [Vlasto,3] 
+2,Vrato,wand:        [Vlado,12] [Vlasto,12] [Vojto,7] 
+1: Vlado,85 Vlasto,85 Vojto,93 
+2: Vrato,84 
+
+Round 2
+1: Vlado,85 Vlasto,85 Vojto,93 
+2: Vrato,84 
+1,Vlado,fireball:    [Vrato,7] 
+1,Vlado,dagger:      [Vrato,1] 
+1,Vlasto,slingshot:  [Vrato,1] 
+1,Vojto,fireball:    [Vrato,7] 
+2,Vrato,rock:        [Vlado,3] [Vlasto,3] 
+2,Vrato,wand:        [Vlado,12] [Vlasto,12] [Vojto,7] 
+1: Vlado,70 Vlasto,70 Vojto,86 
+2: Vrato,68 
+
+Round 3
+1: Vlado,70 Vlasto,70 Vojto,86 
+2: Vrato,68 
+1,Vlado,fireball:    [Vrato,7] 
+1,Vlado,dagger:      [Vrato,1] 
+1,Vlasto,slingshot:  [Vrato,1] 
+1,Vojto,fireball:    [Vrato,7] 
+2,Vrato,rock:        [Vlado,3] [Vlasto,3] 
+2,Vrato,wand:        [Vlado,12] [Vlasto,12] [Vojto,7] 
+1: Vlado,55 Vlasto,55 Vojto,79 
+2: Vrato,52 
+
+Round 4
+1: Vlado,55 Vlasto,55 Vojto,79 
+2: Vrato,52 
+1,Vlado,fireball:    [Vrato,7] 
+1,Vlado,dagger:      [Vrato,1] 
+1,Vlasto,slingshot:  [Vrato,1] 
+1,Vojto,fireball:    [Vrato,7] 
+2,Vrato,rock:        [Vlado,3] [Vlasto,3] 
+2,Vrato,wand:        [Vlado,12] [Vlasto,12] [Vojto,7] 
+1: Vlado,40 Vlasto,40 Vojto,72 
+2: Vrato,36 
+
+Round 5
+1: Vlado,40 Vlasto,40 Vojto,72 
+2: Vrato,36 
+1,Vlado,fireball:    [Vrato,7] 
+1,Vlado,dagger:      [Vrato,1] 
+1,Vlasto,slingshot:  [Vrato,1] 
+1,Vojto,fireball:    [Vrato,7] 
+2,Vrato,rock:        [Vlado,3] [Vlasto,3] 
+2,Vrato,wand:        [Vlado,12] [Vlasto,12] [Vojto,7] 
+1: Vlado,25 Vlasto,25 Vojto,65 
+2: Vrato,20 
+
+Round 6
+1: Vlado,25 Vlasto,25 Vojto,65 
+2: Vrato,20 
+1,Vlado,fireball:    [Vrato,7] 
+1,Vlado,dagger:      [Vrato,1] 
+1,Vlasto,slingshot:  [Vrato,1] 
+1,Vojto,fireball:    [Vrato,7] 
+2,Vrato,rock:        [Vlado,3] [Vlasto,3] 
+2,Vrato,wand:        [Vlado,12] [Vlasto,12] [Vojto,7] 
+1: Vlado,10 Vlasto,10 Vojto,58 
+2: Vrato,4 
+
+Round 7
+1: Vlado,10 Vlasto,10 Vojto,58 
+2: Vrato,4 
+1,Vlado,fireball:    [Vrato,7] 
+1,Vlado,dagger:      [Vrato,1] 
+1,Vlasto,slingshot:  [Vrato,1] 
+1,Vojto,fireball:    [Vrato,7] 
+2,Vrato,rock:        [Vlado,3] [Vlasto,3] 
+2,Vrato,wand:        [Vlado,12] [Vlasto,12] [Vojto,7] 
+1: Vojto,51 
+2: 
+
+WINNER: 1

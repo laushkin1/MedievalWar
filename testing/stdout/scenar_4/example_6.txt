@@ -1,0 +1,250 @@
+Army 1
+    Unit: 0
+    Name: Jonas
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+    Item 2: wand,12,4,1,4,2
+
+    Unit: 1
+    Name: Jan
+    HP: 100
+    Item 1: aura,0,8,1,0,0
+
+    Unit: 2
+    Name: Urban
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+    Item 2: fireball,11,0,1,3,3
+
+    Unit: 3
+    Name: Jaro
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+
+    Unit: 4
+    Name: Juro
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+    Item 2: rock,3,0,1,2,1
+
+Army 2
+    Unit: 0
+    Name: Klimo
+    HP: 100
+    Item 1: hammer,8,2,2,1,2
+
+    Unit: 1
+    Name: Kveto
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+    Item 2: wand,12,4,1,4,2
+
+    Unit: 2
+    Name: Kiko
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+    Item 2: shield,2,6,1,0,0
+
+    Unit: 3
+    Name: Laco
+    HP: 100
+    Item 1: hammer,8,2,2,1,2
+
+    Unit: 4
+    Name: Levo
+    HP: 100
+    Item 1: armor,2,7,1,0,0
+    Item 2: wand,12,4,1,4,2
+
+Round 1
+1: Jonas,100 Jan,100 Urban,100 Jaro,100 Juro,100 
+2: Klimo,100 Kveto,100 Kiko,100 Laco,100 Levo,100 
+1,Jonas,rock:        [Klimo,1] [Kveto,1] 
+1,Jonas,wand:        [Klimo,10] [Kveto,8] [Kiko,6] 
+1,Urban,fireball:    [Klimo,9] [Kveto,7] [Kiko,5] [Laco,9] 
+1,Jaro,wand:         [Klimo,10] [Kveto,8] [Kiko,6] 
+2,Klimo,hammer:      [Jonas,4] [Jan,1] [Urban,6] 
+2,Kveto,wand:        [Jonas,8] [Jan,4] [Urban,10] 
+2,Levo,wand:         [Jonas,8] [Jan,4] [Urban,10] 
+1: Jonas,80 Jan,91 Urban,74 Jaro,100 Juro,100 
+2: Klimo,70 Kveto,76 Kiko,83 Laco,91 Levo,100 
+
+Round 2
+1: Jonas,80 Jan,91 Urban,74 Jaro,100 Juro,100 
+2: Klimo,70 Kveto,76 Kiko,83 Laco,91 Levo,100 
+1,Jonas,rock:        [Klimo,1] [Kveto,1] 
+1,Jonas,wand:        [Klimo,10] [Kveto,8] [Kiko,6] 
+1,Urban,fireball:    [Klimo,9] [Kveto,7] [Kiko,5] [Laco,9] 
+1,Jaro,wand:         [Klimo,10] [Kveto,8] [Kiko,6] 
+2,Klimo,hammer:      [Jonas,4] [Jan,1] [Urban,6] 
+2,Kveto,wand:        [Jonas,8] [Jan,4] [Urban,10] 
+2,Levo,wand:         [Jonas,8] [Jan,4] [Urban,10] 
+1: Jonas,60 Jan,82 Urban,48 Jaro,100 Juro,100 
+2: Klimo,40 Kveto,52 Kiko,66 Laco,82 Levo,100 
+
+Round 3
+1: Jonas,60 Jan,82 Urban,48 Jaro,100 Juro,100 
+2: Klimo,40 Kveto,52 Kiko,66 Laco,82 Levo,100 
+1,Jonas,rock:        [Klimo,1] [Kveto,1] 
+1,Jonas,wand:        [Klimo,10] [Kveto,8] [Kiko,6] 
+1,Urban,fireball:    [Klimo,9] [Kveto,7] [Kiko,5] [Laco,9] 
+1,Jaro,wand:         [Klimo,10] [Kveto,8] [Kiko,6] 
+2,Klimo,hammer:      [Jonas,4] [Jan,1] [Urban,6] 
+2,Kveto,wand:        [Jonas,8] [Jan,4] [Urban,10] 
+2,Levo,wand:         [Jonas,8] [Jan,4] [Urban,10] 
+1: Jonas,40 Jan,73 Urban,22 Jaro,100 Juro,100 
+2: Klimo,10 Kveto,28 Kiko,49 Laco,73 Levo,100 
+
+Round 4
+1: Jonas,40 Jan,73 Urban,22 Jaro,100 Juro,100 
+2: Klimo,10 Kveto,28 Kiko,49 Laco,73 Levo,100 
+1,Jonas,rock:        [Klimo,1] [Kveto,1] 
+1,Jonas,wand:        [Klimo,10] [Kveto,8] [Kiko,6] 
+1,Urban,fireball:    [Klimo,9] [Kveto,7] [Kiko,5] [Laco,9] 
+1,Jaro,wand:         [Klimo,10] [Kveto,8] [Kiko,6] 
+2,Klimo,hammer:      [Jonas,4] [Jan,1] [Urban,6] 
+2,Kveto,wand:        [Jonas,8] [Jan,4] [Urban,10] 
+2,Levo,wand:         [Jonas,8] [Jan,4] [Urban,10] 
+1: Jonas,20 Jan,64 Jaro,100 Juro,100 
+2: Kveto,4 Kiko,32 Laco,64 Levo,100 
+
+Round 5
+1: Jonas,20 Jan,64 Jaro,100 Juro,100 
+2: Kveto,4 Kiko,32 Laco,64 Levo,100 
+1,Jonas,rock:        [Kveto,1] [Kiko,1] 
+1,Jonas,wand:        [Kveto,8] [Kiko,6] [Laco,10] 
+1,Jaro,wand:         [Kveto,8] [Kiko,6] [Laco,10] 
+2,Kveto,dagger:      [Jonas,1] 
+2,Kveto,wand:        [Jonas,8] [Jan,4] [Jaro,8] 
+2,Levo,wand:         [Jonas,8] [Jan,4] [Jaro,8] 
+1: Jonas,3 Jan,56 Jaro,84 Juro,100 
+2: Kiko,19 Laco,44 Levo,100 
+
+Round 6
+1: Jonas,3 Jan,56 Jaro,84 Juro,100 
+2: Kiko,19 Laco,44 Levo,100 
+1,Jonas,rock:        [Kiko,1] [Laco,1] 
+1,Jonas,wand:        [Kiko,6] [Laco,10] [Levo,1] 
+1,Jaro,wand:         [Kiko,6] [Laco,10] [Levo,1] 
+2,Kiko,dagger:       [Jonas,1] 
+2,Kiko,shield:       [Jonas,1] 
+2,Laco,hammer:       [Jonas,4] [Jan,1] [Jaro,4] 
+2,Levo,wand:         [Jonas,8] [Jan,4] [Jaro,8] 
+1: Jan,51 Jaro,72 Juro,100 
+2: Kiko,6 Laco,23 Levo,98 
+
+Round 7
+1: Jan,51 Jaro,72 Juro,100 
+2: Kiko,6 Laco,23 Levo,98 
+1,Jan,aura:          [Kiko,1] 
+1,Jaro,wand:         [Kiko,6] [Laco,10] [Levo,1] 
+1,Juro,rock:         [Kiko,1] [Laco,1] 
+1,Juro,rock:         [Kiko,1] [Laco,1] 
+2,Kiko,dagger:       [Jan,1] 
+2,Kiko,shield:       [Jan,1] 
+2,Laco,hammer:       [Jan,1] [Jaro,4] [Juro,8] 
+2,Levo,wand:         [Jan,4] [Jaro,8] [Juro,12] 
+1: Jan,44 Jaro,60 Juro,80 
+2: Laco,11 Levo,97 
+
+Round 8
+1: Jan,44 Jaro,60 Juro,80 
+2: Laco,11 Levo,97 
+1,Jan,aura:          [Laco,1] 
+1,Jaro,wand:         [Laco,10] [Levo,1] 
+1,Juro,rock:         [Laco,1] [Levo,1] 
+1,Juro,rock:         [Laco,1] [Levo,1] 
+2,Laco,hammer:       [Jan,1] [Jaro,4] [Juro,8] 
+2,Levo,wand:         [Jan,4] [Jaro,8] [Juro,12] 
+1: Jan,39 Jaro,48 Juro,60 
+2: Levo,94 
+
+Round 9
+1: Jan,39 Jaro,48 Juro,60 
+2: Levo,94 
+1,Jan,aura:          [Levo,1] 
+1,Jaro,wand:         [Levo,1] 
+1,Juro,rock:         [Levo,1] 
+1,Juro,rock:         [Levo,1] 
+2,Levo,armor:        [Jan,1] 
+2,Levo,wand:         [Jan,4] [Jaro,8] [Juro,12] 
+1: Jan,34 Jaro,40 Juro,48 
+2: Levo,90 
+
+Round 10
+1: Jan,34 Jaro,40 Juro,48 
+2: Levo,90 
+1,Jan,aura:          [Levo,1] 
+1,Jaro,wand:         [Levo,1] 
+1,Juro,rock:         [Levo,1] 
+1,Juro,rock:         [Levo,1] 
+2,Levo,armor:        [Jan,1] 
+2,Levo,wand:         [Jan,4] [Jaro,8] [Juro,12] 
+1: Jan,29 Jaro,32 Juro,36 
+2: Levo,86 
+
+Round 11
+1: Jan,29 Jaro,32 Juro,36 
+2: Levo,86 
+1,Jan,aura:          [Levo,1] 
+1,Jaro,wand:         [Levo,1] 
+1,Juro,rock:         [Levo,1] 
+1,Juro,rock:         [Levo,1] 
+2,Levo,armor:        [Jan,1] 
+2,Levo,wand:         [Jan,4] [Jaro,8] [Juro,12] 
+1: Jan,24 Jaro,24 Juro,24 
+2: Levo,82 
+
+Round 12
+1: Jan,24 Jaro,24 Juro,24 
+2: Levo,82 
+1,Jan,aura:          [Levo,1] 
+1,Jaro,wand:         [Levo,1] 
+1,Juro,rock:         [Levo,1] 
+1,Juro,rock:         [Levo,1] 
+2,Levo,armor:        [Jan,1] 
+2,Levo,wand:         [Jan,4] [Jaro,8] [Juro,12] 
+1: Jan,19 Jaro,16 Juro,12 
+2: Levo,78 
+
+Round 13
+1: Jan,19 Jaro,16 Juro,12 
+2: Levo,78 
+1,Jan,aura:          [Levo,1] 
+1,Jaro,wand:         [Levo,1] 
+1,Juro,rock:         [Levo,1] 
+1,Juro,rock:         [Levo,1] 
+2,Levo,armor:        [Jan,1] 
+2,Levo,wand:         [Jan,4] [Jaro,8] [Juro,12] 
+1: Jan,14 Jaro,8 
+2: Levo,74 
+
+Round 14
+1: Jan,14 Jaro,8 
+2: Levo,74 
+1,Jan,aura:          [Levo,1] 
+1,Jaro,wand:         [Levo,1] 
+2,Levo,armor:        [Jan,1] 
+2,Levo,wand:         [Jan,4] [Jaro,8] 
+1: Jan,9 
+2: Levo,72 
+
+Round 15
+1: Jan,9 
+2: Levo,72 
+1,Jan,aura:          [Levo,1] 
+2,Levo,armor:        [Jan,1] 
+2,Levo,wand:         [Jan,4] 
+1: Jan,4 
+2: Levo,71 
+
+Round 16
+1: Jan,4 
+2: Levo,71 
+1,Jan,aura:          [Levo,1] 
+2,Levo,armor:        [Jan,1] 
+2,Levo,wand:         [Jan,4] 
+1: 
+2: Levo,70 
+
+WINNER: 2

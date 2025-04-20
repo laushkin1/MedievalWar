@@ -1,0 +1,220 @@
+Army 1
+    Unit: 0
+    Name: Liam
+    HP: 100
+    Item 1: cannon,12,0,2,4,4
+
+    Unit: 1
+    Name: Noah
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 2
+    Name: Oliver
+    HP: 100
+    Item 1: hammer,8,2,2,1,2
+
+    Unit: 3
+    Name: James
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+
+    Unit: 4
+    Name: Lucas
+    HP: 100
+    Item 1: armor,2,7,1,0,0
+    Item 2: fireball,11,0,1,3,3
+
+Army 2
+    Unit: 0
+    Name: Levi
+    HP: 100
+    Item 1: spear,6,1,1,1,1
+
+    Unit: 1
+    Name: Owen
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+    Item 2: shield,2,6,1,0,0
+
+    Unit: 2
+    Name: John
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: spear,6,1,1,1,1
+
+    Unit: 3
+    Name: Luke
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+
+    Unit: 4
+    Name: Jacob
+    HP: 100
+    Item 1: shield,2,6,1,0,0
+    Item 2: fireball,11,0,1,3,3
+
+Round 1
+1: Liam,100 Noah,100 Oliver,100 James,100 Lucas,100 
+2: Levi,100 Owen,100 John,100 Luke,100 Jacob,100 
+1,Liam,cannon:       [Levi,11] [Owen,4] [John,7] [Luke,12] [Jacob,6] 
+1,Noah,axe:          [Levi,9] [Owen,2] 
+1,James,fireball:    [Levi,10] [Owen,3] [John,6] [Luke,11] 
+2,Levi,spear:        [Liam,6] [Noah,4] 
+2,John,wand:         [Liam,12] [Noah,10] [Oliver,10] 
+1: Liam,82 Noah,86 Oliver,90 James,100 Lucas,100 
+2: Levi,70 Owen,91 John,87 Luke,77 Jacob,94 
+
+Round 2
+1: Liam,82 Noah,86 Oliver,90 James,100 Lucas,100 
+2: Levi,70 Owen,91 John,87 Luke,77 Jacob,94 
+1,Liam,cannon:       [Levi,11] [Owen,4] [John,7] [Luke,12] [Jacob,6] 
+1,Noah,axe:          [Levi,9] [Owen,2] 
+1,James,fireball:    [Levi,10] [Owen,3] [John,6] [Luke,11] 
+2,Levi,spear:        [Liam,6] [Noah,4] 
+2,John,wand:         [Liam,12] [Noah,10] [Oliver,10] 
+1: Liam,64 Noah,72 Oliver,80 James,100 Lucas,100 
+2: Levi,40 Owen,82 John,74 Luke,54 Jacob,88 
+
+Round 3
+1: Liam,64 Noah,72 Oliver,80 James,100 Lucas,100 
+2: Levi,40 Owen,82 John,74 Luke,54 Jacob,88 
+1,Liam,cannon:       [Levi,11] [Owen,4] [John,7] [Luke,12] [Jacob,6] 
+1,Noah,axe:          [Levi,9] [Owen,2] 
+1,James,fireball:    [Levi,10] [Owen,3] [John,6] [Luke,11] 
+2,Levi,spear:        [Liam,6] [Noah,4] 
+2,John,wand:         [Liam,12] [Noah,10] [Oliver,10] 
+1: Liam,46 Noah,58 Oliver,70 James,100 Lucas,100 
+2: Levi,10 Owen,73 John,61 Luke,31 Jacob,82 
+
+Round 4
+1: Liam,46 Noah,58 Oliver,70 James,100 Lucas,100 
+2: Levi,10 Owen,73 John,61 Luke,31 Jacob,82 
+1,Liam,cannon:       [Levi,11] [Owen,4] [John,7] [Luke,12] [Jacob,6] 
+1,Noah,axe:          [Levi,9] [Owen,2] 
+1,James,fireball:    [Levi,10] [Owen,3] [John,6] [Luke,11] 
+2,Levi,spear:        [Liam,6] [Noah,4] 
+2,John,wand:         [Liam,12] [Noah,10] [Oliver,10] 
+1: Liam,28 Noah,44 Oliver,60 James,100 Lucas,100 
+2: Owen,64 John,48 Luke,8 Jacob,76 
+
+Round 5
+1: Liam,28 Noah,44 Oliver,60 James,100 Lucas,100 
+2: Owen,64 John,48 Luke,8 Jacob,76 
+1,Liam,cannon:       [Owen,4] [John,7] [Luke,12] [Jacob,6] 
+1,Noah,axe:          [Owen,2] [John,5] 
+1,James,fireball:    [Owen,3] [John,6] [Luke,11] [Jacob,5] 
+2,Owen,sword:        [Liam,9] 
+2,Owen,shield:       [Liam,2] 
+2,John,wand:         [Liam,12] [Noah,10] [Oliver,10] 
+2,John,spear:        [Liam,6] [Noah,4] 
+2,Jacob,fireball:    [Liam,11] [Noah,9] [Oliver,9] [James,11] 
+1: Noah,21 Oliver,41 James,89 Lucas,100 
+2: Owen,55 John,30 Jacob,65 
+
+Round 6
+1: Noah,21 Oliver,41 James,89 Lucas,100 
+2: Owen,55 John,30 Jacob,65 
+1,Noah,axe:          [Owen,2] [John,5] 
+1,Oliver,hammer:     [Owen,1] [John,3] [Jacob,2] 
+1,James,fireball:    [Owen,3] [John,6] [Jacob,5] 
+1,Lucas,fireball:    [Owen,3] [John,6] [Jacob,5] 
+2,Owen,sword:        [Noah,7] 
+2,Owen,shield:       [Noah,1] 
+2,John,wand:         [Noah,10] [Oliver,10] [James,12] 
+2,John,spear:        [Noah,4] [Oliver,4] 
+2,Jacob,fireball:    [Noah,9] [Oliver,9] [James,11] [Lucas,4] 
+1: Oliver,18 James,66 Lucas,96 
+2: Owen,46 John,10 Jacob,53 
+
+Round 7
+1: Oliver,18 James,66 Lucas,96 
+2: Owen,46 John,10 Jacob,53 
+1,Oliver,hammer:     [Owen,1] [John,3] [Jacob,2] 
+1,James,fireball:    [Owen,3] [John,6] [Jacob,5] 
+1,Lucas,fireball:    [Owen,3] [John,6] [Jacob,5] 
+2,Owen,sword:        [Oliver,7] 
+2,Owen,shield:       [Oliver,1] 
+2,John,wand:         [Oliver,10] [James,12] [Lucas,5] 
+2,John,spear:        [Oliver,4] [James,6] 
+2,Jacob,fireball:    [Oliver,9] [James,11] [Lucas,4] 
+1: James,37 Lucas,87 
+2: Owen,39 Jacob,41 
+
+Round 8
+1: James,37 Lucas,87 
+2: Owen,39 Jacob,41 
+1,James,fireball:    [Owen,3] [Jacob,5] 
+1,Lucas,fireball:    [Owen,3] [Jacob,5] 
+2,Owen,sword:        [James,9] 
+2,Owen,shield:       [James,2] 
+2,Jacob,fireball:    [James,11] [Lucas,4] 
+1: James,15 Lucas,83 
+2: Owen,33 Jacob,31 
+
+Round 9
+1: James,15 Lucas,83 
+2: Owen,33 Jacob,31 
+1,James,fireball:    [Owen,3] [Jacob,5] 
+1,Lucas,fireball:    [Owen,3] [Jacob,5] 
+2,Owen,sword:        [James,9] 
+2,Owen,shield:       [James,2] 
+2,Jacob,fireball:    [James,11] [Lucas,4] 
+1: Lucas,79 
+2: Owen,27 Jacob,21 
+
+Round 10
+1: Lucas,79 
+2: Owen,27 Jacob,21 
+1,Lucas,armor:       [Owen,1] 
+1,Lucas,fireball:    [Owen,3] [Jacob,5] 
+2,Owen,sword:        [Lucas,2] 
+2,Owen,shield:       [Lucas,1] 
+2,Jacob,fireball:    [Lucas,4] 
+1: Lucas,72 
+2: Owen,23 Jacob,16 
+
+Round 11
+1: Lucas,72 
+2: Owen,23 Jacob,16 
+1,Lucas,armor:       [Owen,1] 
+1,Lucas,fireball:    [Owen,3] [Jacob,5] 
+2,Owen,sword:        [Lucas,2] 
+2,Owen,shield:       [Lucas,1] 
+2,Jacob,fireball:    [Lucas,4] 
+1: Lucas,65 
+2: Owen,19 Jacob,11 
+
+Round 12
+1: Lucas,65 
+2: Owen,19 Jacob,11 
+1,Lucas,armor:       [Owen,1] 
+1,Lucas,fireball:    [Owen,3] [Jacob,5] 
+2,Owen,sword:        [Lucas,2] 
+2,Owen,shield:       [Lucas,1] 
+2,Jacob,fireball:    [Lucas,4] 
+1: Lucas,58 
+2: Owen,15 Jacob,6 
+
+Round 13
+1: Lucas,58 
+2: Owen,15 Jacob,6 
+1,Lucas,armor:       [Owen,1] 
+1,Lucas,fireball:    [Owen,3] [Jacob,5] 
+2,Owen,sword:        [Lucas,2] 
+2,Owen,shield:       [Lucas,1] 
+2,Jacob,fireball:    [Lucas,4] 
+1: Lucas,51 
+2: Owen,11 Jacob,1 
+
+Round 14
+1: Lucas,51 
+2: Owen,11 Jacob,1 
+1,Lucas,armor:       [Owen,1] 
+1,Lucas,fireball:    [Owen,3] [Jacob,5] 
+2,Owen,sword:        [Lucas,2] 
+2,Owen,shield:       [Lucas,1] 
+2,Jacob,fireball:    [Lucas,4] 
+1: Lucas,44 
+2: Owen,7 
+

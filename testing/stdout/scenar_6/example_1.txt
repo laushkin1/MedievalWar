@@ -1,0 +1,113 @@
+Army 1
+    Unit: 0
+    Name: Trion
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: fireball,11,0,1,3,3
+
+    Unit: 1
+    Name: Hepto
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+
+Army 2
+    Unit: 0
+    Name: Denor
+    HP: 100
+    Item 1: crossbow,5,1,2,3,0
+
+    Unit: 1
+    Name: Kadir
+    HP: 100
+    Item 1: gloves,1,4,1,0,0
+    Item 2: fireball,11,0,1,3,3
+
+    Unit: 2
+    Name: Limex
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+    Item 2: dagger,4,0,1,0,0
+
+    Unit: 3
+    Name: Randy
+    HP: 100
+    Item 1: cannon,12,0,2,4,4
+
+Round 1
+1: Trion,100 Hepto,100 
+2: Denor,100 Kadir,100 Limex,100 Randy,100 
+1,Trion,wand:        [Denor,11] [Kadir,8] [Limex,12] 
+1,Trion,fireball:    [Denor,10] [Kadir,7] [Limex,11] [Randy,11] 
+2,Denor,crossbow:    [Trion,1] 
+2,Kadir,fireball:    [Trion,7] [Hepto,9] 
+2,Randy,cannon:      [Trion,8] [Hepto,10] 
+1: Trion,84 Hepto,81 
+2: Denor,79 Kadir,85 Limex,77 Randy,89 
+
+Round 2
+1: Trion,84 Hepto,81 
+2: Denor,79 Kadir,85 Limex,77 Randy,89 
+1,Trion,wand:        [Denor,11] [Kadir,8] [Limex,12] 
+1,Trion,fireball:    [Denor,10] [Kadir,7] [Limex,11] [Randy,11] 
+2,Denor,crossbow:    [Trion,1] 
+2,Kadir,fireball:    [Trion,7] [Hepto,9] 
+2,Randy,cannon:      [Trion,8] [Hepto,10] 
+1: Trion,68 Hepto,62 
+2: Denor,58 Kadir,70 Limex,54 Randy,78 
+
+Round 3
+1: Trion,68 Hepto,62 
+2: Denor,58 Kadir,70 Limex,54 Randy,78 
+1,Trion,wand:        [Denor,11] [Kadir,8] [Limex,12] 
+1,Trion,fireball:    [Denor,10] [Kadir,7] [Limex,11] [Randy,11] 
+2,Denor,crossbow:    [Trion,1] 
+2,Kadir,fireball:    [Trion,7] [Hepto,9] 
+2,Randy,cannon:      [Trion,8] [Hepto,10] 
+1: Trion,52 Hepto,43 
+2: Denor,37 Kadir,55 Limex,31 Randy,67 
+
+Round 4
+1: Trion,52 Hepto,43 
+2: Denor,37 Kadir,55 Limex,31 Randy,67 
+1,Trion,wand:        [Denor,11] [Kadir,8] [Limex,12] 
+1,Trion,fireball:    [Denor,10] [Kadir,7] [Limex,11] [Randy,11] 
+2,Denor,crossbow:    [Trion,1] 
+2,Kadir,fireball:    [Trion,7] [Hepto,9] 
+2,Randy,cannon:      [Trion,8] [Hepto,10] 
+1: Trion,36 Hepto,24 
+2: Denor,16 Kadir,40 Limex,8 Randy,56 
+
+Round 5
+1: Trion,36 Hepto,24 
+2: Denor,16 Kadir,40 Limex,8 Randy,56 
+1,Trion,wand:        [Denor,11] [Kadir,8] [Limex,12] 
+1,Trion,fireball:    [Denor,10] [Kadir,7] [Limex,11] [Randy,11] 
+2,Denor,crossbow:    [Trion,1] 
+2,Kadir,fireball:    [Trion,7] [Hepto,9] 
+2,Randy,cannon:      [Trion,8] [Hepto,10] 
+1: Trion,20 Hepto,5 
+2: Kadir,25 Randy,45 
+
+Round 6
+1: Trion,20 Hepto,5 
+2: Kadir,25 Randy,45 
+1,Trion,wand:        [Kadir,8] [Randy,12] 
+1,Trion,fireball:    [Kadir,7] [Randy,11] 
+2,Kadir,gloves:      [Trion,1] 
+2,Kadir,fireball:    [Trion,7] [Hepto,9] 
+2,Randy,cannon:      [Trion,8] [Hepto,10] 
+1: Trion,4 
+2: Kadir,10 Randy,22 
+
+Round 7
+1: Trion,4 
+2: Kadir,10 Randy,22 
+1,Trion,wand:        [Kadir,8] [Randy,12] 
+1,Trion,fireball:    [Kadir,7] [Randy,11] 
+2,Kadir,gloves:      [Trion,1] 
+2,Kadir,fireball:    [Trion,7] 
+2,Randy,cannon:      [Trion,8] 
+1: 
+2: 
+
+NO WINNER

@@ -1,0 +1,36 @@
+Army 1
+    Unit: 0
+    Name: Naivny
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+
+Army 2
+    Unit: 0
+    Name: Silak
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: wand,12,4,1,4,2
+
+    Unit: 1
+    Name: Buchac
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: wand,12,4,1,4,2
+
+    Unit: 2
+    Name: Makac
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: wand,12,4,1,4,2
+
+    Unit: 3
+    Name: Rubac
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: wand,12,4,1,4,2
+
+    Unit: 4
+    Name: Hukac
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: wand,12,4,1,4,2

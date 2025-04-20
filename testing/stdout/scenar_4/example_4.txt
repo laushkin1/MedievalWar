@@ -1,0 +1,159 @@
+Army 1
+    Unit: 0
+    Name: Jakub
+    HP: 100
+    Item 1: spear,6,1,1,1,1
+
+    Unit: 1
+    Name: Gustav
+    HP: 100
+    Item 1: aura,0,8,1,0,0
+    Item 2: sword,9,2,1,0,0
+
+    Unit: 2
+    Name: Alojz
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+    Item 2: shield,2,6,1,0,0
+
+    Unit: 3
+    Name: Hugo
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 4
+    Name: Alexej
+    HP: 100
+    Item 1: gloves,1,4,1,0,0
+    Item 2: fireball,11,0,1,3,3
+
+Army 2
+    Unit: 0
+    Name: Ariel
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: fireball,11,0,1,3,3
+
+Round 1
+1: Jakub,100 Gustav,100 Alojz,100 Hugo,100 Alexej,100 
+2: Ariel,100 
+1,Jakub,spear:       [Ariel,2] 
+2,Ariel,wand:        [Jakub,11] [Gustav,2] [Alojz,6] 
+2,Ariel,fireball:    [Jakub,10] [Gustav,1] [Alojz,5] [Hugo,9] 
+1: Jakub,79 Gustav,97 Alojz,89 Hugo,91 Alexej,100 
+2: Ariel,98 
+
+Round 2
+1: Jakub,79 Gustav,97 Alojz,89 Hugo,91 Alexej,100 
+2: Ariel,98 
+1,Jakub,spear:       [Ariel,2] 
+2,Ariel,wand:        [Jakub,11] [Gustav,2] [Alojz,6] 
+2,Ariel,fireball:    [Jakub,10] [Gustav,1] [Alojz,5] [Hugo,9] 
+1: Jakub,58 Gustav,94 Alojz,78 Hugo,82 Alexej,100 
+2: Ariel,96 
+
+Round 3
+1: Jakub,58 Gustav,94 Alojz,78 Hugo,82 Alexej,100 
+2: Ariel,96 
+1,Jakub,spear:       [Ariel,2] 
+2,Ariel,wand:        [Jakub,11] [Gustav,2] [Alojz,6] 
+2,Ariel,fireball:    [Jakub,10] [Gustav,1] [Alojz,5] [Hugo,9] 
+1: Jakub,37 Gustav,91 Alojz,67 Hugo,73 Alexej,100 
+2: Ariel,94 
+
+Round 4
+1: Jakub,37 Gustav,91 Alojz,67 Hugo,73 Alexej,100 
+2: Ariel,94 
+1,Jakub,spear:       [Ariel,2] 
+2,Ariel,wand:        [Jakub,11] [Gustav,2] [Alojz,6] 
+2,Ariel,fireball:    [Jakub,10] [Gustav,1] [Alojz,5] [Hugo,9] 
+1: Jakub,16 Gustav,88 Alojz,56 Hugo,64 Alexej,100 
+2: Ariel,92 
+
+Round 5
+1: Jakub,16 Gustav,88 Alojz,56 Hugo,64 Alexej,100 
+2: Ariel,92 
+1,Jakub,spear:       [Ariel,2] 
+2,Ariel,wand:        [Jakub,11] [Gustav,2] [Alojz,6] 
+2,Ariel,fireball:    [Jakub,10] [Gustav,1] [Alojz,5] [Hugo,9] 
+1: Gustav,85 Alojz,45 Hugo,55 Alexej,100 
+2: Ariel,90 
+
+Round 6
+1: Gustav,85 Alojz,45 Hugo,55 Alexej,100 
+2: Ariel,90 
+1,Gustav,aura:       [Ariel,1] 
+1,Gustav,sword:      [Ariel,5] 
+1,Alexej,fireball:   [Ariel,7] 
+2,Ariel,wand:        [Gustav,2] [Alojz,6] [Hugo,10] 
+2,Ariel,fireball:    [Gustav,1] [Alojz,5] [Hugo,9] [Alexej,7] 
+1: Gustav,82 Alojz,34 Hugo,36 Alexej,93 
+2: Ariel,77 
+
+Round 7
+1: Gustav,82 Alojz,34 Hugo,36 Alexej,93 
+2: Ariel,77 
+1,Gustav,aura:       [Ariel,1] 
+1,Gustav,sword:      [Ariel,5] 
+1,Alexej,fireball:   [Ariel,7] 
+2,Ariel,wand:        [Gustav,2] [Alojz,6] [Hugo,10] 
+2,Ariel,fireball:    [Gustav,1] [Alojz,5] [Hugo,9] [Alexej,7] 
+1: Gustav,79 Alojz,23 Hugo,17 Alexej,86 
+2: Ariel,64 
+
+Round 8
+1: Gustav,79 Alojz,23 Hugo,17 Alexej,86 
+2: Ariel,64 
+1,Gustav,aura:       [Ariel,1] 
+1,Gustav,sword:      [Ariel,5] 
+1,Alexej,fireball:   [Ariel,7] 
+2,Ariel,wand:        [Gustav,2] [Alojz,6] [Hugo,10] 
+2,Ariel,fireball:    [Gustav,1] [Alojz,5] [Hugo,9] [Alexej,7] 
+1: Gustav,76 Alojz,12 Alexej,79 
+2: Ariel,51 
+
+Round 9
+1: Gustav,76 Alojz,12 Alexej,79 
+2: Ariel,51 
+1,Gustav,aura:       [Ariel,1] 
+1,Gustav,sword:      [Ariel,5] 
+1,Alexej,fireball:   [Ariel,7] 
+2,Ariel,wand:        [Gustav,2] [Alojz,6] [Alexej,8] 
+2,Ariel,fireball:    [Gustav,1] [Alojz,5] [Alexej,7] 
+1: Gustav,73 Alojz,1 Alexej,64 
+2: Ariel,38 
+
+Round 10
+1: Gustav,73 Alojz,1 Alexej,64 
+2: Ariel,38 
+1,Gustav,aura:       [Ariel,1] 
+1,Gustav,sword:      [Ariel,5] 
+1,Alexej,fireball:   [Ariel,7] 
+2,Ariel,wand:        [Gustav,2] [Alojz,6] [Alexej,8] 
+2,Ariel,fireball:    [Gustav,1] [Alojz,5] [Alexej,7] 
+1: Gustav,70 Alexej,49 
+2: Ariel,25 
+
+Round 11
+1: Gustav,70 Alexej,49 
+2: Ariel,25 
+1,Gustav,aura:       [Ariel,1] 
+1,Gustav,sword:      [Ariel,5] 
+1,Alexej,fireball:   [Ariel,7] 
+2,Ariel,wand:        [Gustav,2] [Alexej,8] 
+2,Ariel,fireball:    [Gustav,1] [Alexej,7] 
+1: Gustav,67 Alexej,34 
+2: Ariel,12 
+
+Round 12
+1: Gustav,67 Alexej,34 
+2: Ariel,12 
+1,Gustav,aura:       [Ariel,1] 
+1,Gustav,sword:      [Ariel,5] 
+1,Alexej,fireball:   [Ariel,7] 
+2,Ariel,wand:        [Gustav,2] [Alexej,8] 
+2,Ariel,fireball:    [Gustav,1] [Alexej,7] 
+1: Gustav,64 Alexej,19 
+2: 
+
+WINNER: 1

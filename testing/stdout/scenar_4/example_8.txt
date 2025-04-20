@@ -1,0 +1,130 @@
+Army 1
+    Unit: 0
+    Name: Niko
+    HP: 100
+    Item 1: gloves,1,4,1,0,0
+    Item 2: wand,12,4,1,4,2
+
+    Unit: 1
+    Name: Odin
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+
+Army 2
+    Unit: 0
+    Name: Oldo
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+
+    Unit: 1
+    Name: Ondro
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 2
+    Name: Oskar
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+    Item 2: helmet,1,5,1,0,0
+
+    Unit: 3
+    Name: Oto
+    HP: 100
+    Item 1: hammer,8,2,2,1,2
+
+Round 1
+1: Niko,100 Odin,100 
+2: Oldo,100 Ondro,100 Oskar,100 Oto,100 
+1,Niko,gloves:       [Oldo,1] 
+1,Niko,wand:         [Oldo,12] [Ondro,10] [Oskar,7] 
+1,Odin,fireball:     [Oldo,11] [Ondro,9] [Oskar,6] [Oto,9] 
+2,Oldo,dagger:       [Niko,1] 
+2,Ondro,axe:         [Niko,2] [Odin,10] 
+2,Oskar,rock:        [Niko,1] [Odin,3] 
+1: Niko,96 Odin,87 
+2: Oldo,76 Ondro,81 Oskar,87 Oto,91 
+
+Round 2
+1: Niko,96 Odin,87 
+2: Oldo,76 Ondro,81 Oskar,87 Oto,91 
+1,Niko,gloves:       [Oldo,1] 
+1,Niko,wand:         [Oldo,12] [Ondro,10] [Oskar,7] 
+1,Odin,fireball:     [Oldo,11] [Ondro,9] [Oskar,6] [Oto,9] 
+2,Oldo,dagger:       [Niko,1] 
+2,Ondro,axe:         [Niko,2] [Odin,10] 
+2,Oskar,rock:        [Niko,1] [Odin,3] 
+1: Niko,92 Odin,74 
+2: Oldo,52 Ondro,62 Oskar,74 Oto,82 
+
+Round 3
+1: Niko,92 Odin,74 
+2: Oldo,52 Ondro,62 Oskar,74 Oto,82 
+1,Niko,gloves:       [Oldo,1] 
+1,Niko,wand:         [Oldo,12] [Ondro,10] [Oskar,7] 
+1,Odin,fireball:     [Oldo,11] [Ondro,9] [Oskar,6] [Oto,9] 
+2,Oldo,dagger:       [Niko,1] 
+2,Ondro,axe:         [Niko,2] [Odin,10] 
+2,Oskar,rock:        [Niko,1] [Odin,3] 
+1: Niko,88 Odin,61 
+2: Oldo,28 Ondro,43 Oskar,61 Oto,73 
+
+Round 4
+1: Niko,88 Odin,61 
+2: Oldo,28 Ondro,43 Oskar,61 Oto,73 
+1,Niko,gloves:       [Oldo,1] 
+1,Niko,wand:         [Oldo,12] [Ondro,10] [Oskar,7] 
+1,Odin,fireball:     [Oldo,11] [Ondro,9] [Oskar,6] [Oto,9] 
+2,Oldo,dagger:       [Niko,1] 
+2,Ondro,axe:         [Niko,2] [Odin,10] 
+2,Oskar,rock:        [Niko,1] [Odin,3] 
+1: Niko,84 Odin,48 
+2: Oldo,4 Ondro,24 Oskar,48 Oto,64 
+
+Round 5
+1: Niko,84 Odin,48 
+2: Oldo,4 Ondro,24 Oskar,48 Oto,64 
+1,Niko,gloves:       [Oldo,1] 
+1,Niko,wand:         [Oldo,12] [Ondro,10] [Oskar,7] 
+1,Odin,fireball:     [Oldo,11] [Ondro,9] [Oskar,6] [Oto,9] 
+2,Oldo,dagger:       [Niko,1] 
+2,Ondro,axe:         [Niko,2] [Odin,10] 
+2,Oskar,rock:        [Niko,1] [Odin,3] 
+1: Niko,80 Odin,35 
+2: Ondro,5 Oskar,35 Oto,55 
+
+Round 6
+1: Niko,80 Odin,35 
+2: Ondro,5 Oskar,35 Oto,55 
+1,Niko,gloves:       [Ondro,1] 
+1,Niko,wand:         [Ondro,10] [Oskar,7] [Oto,10] 
+1,Odin,fireball:     [Ondro,9] [Oskar,6] [Oto,9] 
+2,Ondro,axe:         [Niko,2] [Odin,10] 
+2,Oskar,rock:        [Niko,1] [Odin,3] 
+1: Niko,77 Odin,22 
+2: Oskar,22 Oto,36 
+
+Round 7
+1: Niko,77 Odin,22 
+2: Oskar,22 Oto,36 
+1,Niko,gloves:       [Oskar,1] 
+1,Niko,wand:         [Oskar,7] [Oto,10] 
+1,Odin,fireball:     [Oskar,6] [Oto,9] 
+2,Oskar,rock:        [Niko,1] [Odin,3] 
+2,Oskar,helmet:      [Niko,1] 
+2,Oto,hammer:        [Niko,1] [Odin,8] 
+1: Niko,74 Odin,11 
+2: Oskar,8 Oto,17 
+
+Round 8
+1: Niko,74 Odin,11 
+2: Oskar,8 Oto,17 
+1,Niko,gloves:       [Oskar,1] 
+1,Niko,wand:         [Oskar,7] [Oto,10] 
+1,Odin,fireball:     [Oskar,6] [Oto,9] 
+2,Oskar,rock:        [Niko,1] [Odin,3] 
+2,Oskar,helmet:      [Niko,1] 
+2,Oto,hammer:        [Niko,1] [Odin,8] 
+1: Niko,71 
+2: 
+
+WINNER: 1

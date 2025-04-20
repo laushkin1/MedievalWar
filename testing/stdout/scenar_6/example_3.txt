@@ -1,0 +1,97 @@
+Army 1
+    Unit: 0
+    Name: Vero
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 1
+    Name: Boe
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: gloves,1,4,1,0,0
+
+Army 2
+    Unit: 0
+    Name: Noe
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: spear,6,1,1,1,1
+
+    Unit: 1
+    Name: Liu
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+
+    Unit: 2
+    Name: Kao
+    HP: 100
+    Item 1: armor,2,7,1,0,0
+    Item 2: gloves,1,4,1,0,0
+
+Round 1
+1: Vero,100 Boe,100 
+2: Noe,100 Liu,100 Kao,100 
+1,Vero,axe:          [Noe,5] [Liu,6] 
+1,Boe,fireball:      [Noe,6] [Liu,7] [Kao,1] 
+2,Noe,wand:          [Vero,10] [Boe,8] 
+2,Noe,spear:         [Vero,4] [Boe,2] 
+2,Liu,wand:          [Vero,10] [Boe,8] 
+1: Vero,76 Boe,82 
+2: Noe,89 Liu,87 Kao,99 
+
+Round 2
+1: Vero,76 Boe,82 
+2: Noe,89 Liu,87 Kao,99 
+1,Vero,axe:          [Noe,5] [Liu,6] 
+1,Boe,fireball:      [Noe,6] [Liu,7] [Kao,1] 
+2,Noe,wand:          [Vero,10] [Boe,8] 
+2,Noe,spear:         [Vero,4] [Boe,2] 
+2,Liu,wand:          [Vero,10] [Boe,8] 
+1: Vero,52 Boe,64 
+2: Noe,78 Liu,74 Kao,98 
+
+Round 3
+1: Vero,52 Boe,64 
+2: Noe,78 Liu,74 Kao,98 
+1,Vero,axe:          [Noe,5] [Liu,6] 
+1,Boe,fireball:      [Noe,6] [Liu,7] [Kao,1] 
+2,Noe,wand:          [Vero,10] [Boe,8] 
+2,Noe,spear:         [Vero,4] [Boe,2] 
+2,Liu,wand:          [Vero,10] [Boe,8] 
+1: Vero,28 Boe,46 
+2: Noe,67 Liu,61 Kao,97 
+
+Round 4
+1: Vero,28 Boe,46 
+2: Noe,67 Liu,61 Kao,97 
+1,Vero,axe:          [Noe,5] [Liu,6] 
+1,Boe,fireball:      [Noe,6] [Liu,7] [Kao,1] 
+2,Noe,wand:          [Vero,10] [Boe,8] 
+2,Noe,spear:         [Vero,4] [Boe,2] 
+2,Liu,wand:          [Vero,10] [Boe,8] 
+1: Vero,4 Boe,28 
+2: Noe,56 Liu,48 Kao,96 
+
+Round 5
+1: Vero,4 Boe,28 
+2: Noe,56 Liu,48 Kao,96 
+1,Vero,axe:          [Noe,5] [Liu,6] 
+1,Boe,fireball:      [Noe,6] [Liu,7] [Kao,1] 
+2,Noe,wand:          [Vero,10] [Boe,8] 
+2,Noe,spear:         [Vero,4] [Boe,2] 
+2,Liu,wand:          [Vero,10] [Boe,8] 
+1: Boe,10 
+2: Noe,45 Liu,35 Kao,95 
+
+Round 6
+1: Boe,10 
+2: Noe,45 Liu,35 Kao,95 
+1,Boe,fireball:      [Noe,6] [Liu,7] [Kao,1] 
+1,Boe,gloves:        [Noe,1] 
+2,Noe,wand:          [Boe,8] 
+2,Noe,spear:         [Boe,2] 
+2,Liu,wand:          [Boe,8] 
+1: 
+2: Noe,38 Liu,28 Kao,94 
+
+WINNER: 2

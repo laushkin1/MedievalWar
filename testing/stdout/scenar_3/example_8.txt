@@ -1,0 +1,115 @@
+Army 1
+    Unit: 0
+    Name: Izidor
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+    Item 2: spear,6,1,1,1,1
+
+Army 2
+    Unit: 0
+    Name: Laco
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: gloves,1,4,1,0,0
+
+Round 1
+1: Izidor,100 
+2: Laco,100 
+1,Izidor,dagger:     [Laco,1] 
+1,Izidor,spear:      [Laco,2] 
+2,Laco,fireball:     [Izidor,10] 
+2,Laco,gloves:       [Izidor,1] 
+1: Izidor,89 
+2: Laco,97 
+
+Round 2
+1: Izidor,89 
+2: Laco,97 
+1,Izidor,dagger:     [Laco,1] 
+1,Izidor,spear:      [Laco,2] 
+2,Laco,fireball:     [Izidor,10] 
+2,Laco,gloves:       [Izidor,1] 
+1: Izidor,78 
+2: Laco,94 
+
+Round 3
+1: Izidor,78 
+2: Laco,94 
+1,Izidor,dagger:     [Laco,1] 
+1,Izidor,spear:      [Laco,2] 
+2,Laco,fireball:     [Izidor,10] 
+2,Laco,gloves:       [Izidor,1] 
+1: Izidor,67 
+2: Laco,91 
+
+Round 4
+1: Izidor,67 
+2: Laco,91 
+1,Izidor,dagger:     [Laco,1] 
+1,Izidor,spear:      [Laco,2] 
+2,Laco,fireball:     [Izidor,10] 
+2,Laco,gloves:       [Izidor,1] 
+1: Izidor,56 
+2: Laco,88 
+
+Round 5
+1: Izidor,56 
+2: Laco,88 
+1,Izidor,dagger:     [Laco,1] 
+1,Izidor,spear:      [Laco,2] 
+2,Laco,fireball:     [Izidor,10] 
+2,Laco,gloves:       [Izidor,1] 
+1: Izidor,45 
+2: Laco,85 
+
+Round 6
+1: Izidor,45 
+2: Laco,85 
+1,Izidor,dagger:     [Laco,1] 
+1,Izidor,spear:      [Laco,2] 
+2,Laco,fireball:     [Izidor,10] 
+2,Laco,gloves:       [Izidor,1] 
+1: Izidor,34 
+2: Laco,82 
+
+Round 7
+1: Izidor,34 
+2: Laco,82 
+1,Izidor,dagger:     [Laco,1] 
+1,Izidor,spear:      [Laco,2] 
+2,Laco,fireball:     [Izidor,10] 
+2,Laco,gloves:       [Izidor,1] 
+1: Izidor,23 
+2: Laco,79 
+
+Round 8
+1: Izidor,23 
+2: Laco,79 
+1,Izidor,dagger:     [Laco,1] 
+1,Izidor,spear:      [Laco,2] 
+2,Laco,fireball:     [Izidor,10] 
+2,Laco,gloves:       [Izidor,1] 
+1: Izidor,12 
+2: Laco,76 
+
+Round 9
+1: Izidor,12 
+2: Laco,76 
+1,Izidor,dagger:     [Laco,1] 
+1,Izidor,spear:      [Laco,2] 
+2,Laco,fireball:     [Izidor,10] 
+2,Laco,gloves:       [Izidor,1] 
+1: Izidor,1 
+2: Laco,73 
+
+Round 10
+1: Izidor,1 
+2: Laco,73 
+1,Izidor,dagger:     [Laco,1] 
+1,Izidor,spear:      [Laco,2] 
+2,Laco,fireball:     [Izidor,10] 
+2,Laco,gloves:       [Izidor,1] 
+1: 
+2: Laco,70 
+
+WINNER: 2

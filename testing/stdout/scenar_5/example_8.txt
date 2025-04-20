@@ -1,0 +1,188 @@
+Army 1
+    Unit: 0
+    Name: Hater
+    HP: 100
+    Item 1: gloves,1,4,1,0,0
+    Item 2: rock,3,0,1,2,1
+
+    Unit: 1
+    Name: Dimmer
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+
+    Unit: 2
+    Name: Slater
+    HP: 100
+    Item 1: slingshot,2,0,2,2,1
+
+    Unit: 3
+    Name: Rusher
+    HP: 100
+    Item 1: hammer,8,2,2,1,2
+
+    Unit: 4
+    Name: Rifter
+    HP: 100
+    Item 1: armor,2,7,1,0,0
+
+Army 2
+    Unit: 0
+    Name: Masker
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: sword,9,2,1,0,0
+
+Round 1
+1: Hater,100 Dimmer,100 Slater,100 Rusher,100 Rifter,100 
+2: Masker,100 
+1,Hater,gloves:      [Masker,1] 
+1,Hater,rock:        [Masker,1] 
+1,Dimmer,wand:       [Masker,6] 
+1,Slater,slingshot:  [Masker,1] 
+2,Masker,wand:       [Hater,8] [Dimmer,8] [Slater,12] 
+2,Masker,sword:      [Hater,5] 
+1: Hater,87 Dimmer,92 Slater,88 Rusher,100 Rifter,100 
+2: Masker,91 
+
+Round 2
+1: Hater,87 Dimmer,92 Slater,88 Rusher,100 Rifter,100 
+2: Masker,91 
+1,Hater,gloves:      [Masker,1] 
+1,Hater,rock:        [Masker,1] 
+1,Dimmer,wand:       [Masker,6] 
+1,Slater,slingshot:  [Masker,1] 
+2,Masker,wand:       [Hater,8] [Dimmer,8] [Slater,12] 
+2,Masker,sword:      [Hater,5] 
+1: Hater,74 Dimmer,84 Slater,76 Rusher,100 Rifter,100 
+2: Masker,82 
+
+Round 3
+1: Hater,74 Dimmer,84 Slater,76 Rusher,100 Rifter,100 
+2: Masker,82 
+1,Hater,gloves:      [Masker,1] 
+1,Hater,rock:        [Masker,1] 
+1,Dimmer,wand:       [Masker,6] 
+1,Slater,slingshot:  [Masker,1] 
+2,Masker,wand:       [Hater,8] [Dimmer,8] [Slater,12] 
+2,Masker,sword:      [Hater,5] 
+1: Hater,61 Dimmer,76 Slater,64 Rusher,100 Rifter,100 
+2: Masker,73 
+
+Round 4
+1: Hater,61 Dimmer,76 Slater,64 Rusher,100 Rifter,100 
+2: Masker,73 
+1,Hater,gloves:      [Masker,1] 
+1,Hater,rock:        [Masker,1] 
+1,Dimmer,wand:       [Masker,6] 
+1,Slater,slingshot:  [Masker,1] 
+2,Masker,wand:       [Hater,8] [Dimmer,8] [Slater,12] 
+2,Masker,sword:      [Hater,5] 
+1: Hater,48 Dimmer,68 Slater,52 Rusher,100 Rifter,100 
+2: Masker,64 
+
+Round 5
+1: Hater,48 Dimmer,68 Slater,52 Rusher,100 Rifter,100 
+2: Masker,64 
+1,Hater,gloves:      [Masker,1] 
+1,Hater,rock:        [Masker,1] 
+1,Dimmer,wand:       [Masker,6] 
+1,Slater,slingshot:  [Masker,1] 
+2,Masker,wand:       [Hater,8] [Dimmer,8] [Slater,12] 
+2,Masker,sword:      [Hater,5] 
+1: Hater,35 Dimmer,60 Slater,40 Rusher,100 Rifter,100 
+2: Masker,55 
+
+Round 6
+1: Hater,35 Dimmer,60 Slater,40 Rusher,100 Rifter,100 
+2: Masker,55 
+1,Hater,gloves:      [Masker,1] 
+1,Hater,rock:        [Masker,1] 
+1,Dimmer,wand:       [Masker,6] 
+1,Slater,slingshot:  [Masker,1] 
+2,Masker,wand:       [Hater,8] [Dimmer,8] [Slater,12] 
+2,Masker,sword:      [Hater,5] 
+1: Hater,22 Dimmer,52 Slater,28 Rusher,100 Rifter,100 
+2: Masker,46 
+
+Round 7
+1: Hater,22 Dimmer,52 Slater,28 Rusher,100 Rifter,100 
+2: Masker,46 
+1,Hater,gloves:      [Masker,1] 
+1,Hater,rock:        [Masker,1] 
+1,Dimmer,wand:       [Masker,6] 
+1,Slater,slingshot:  [Masker,1] 
+2,Masker,wand:       [Hater,8] [Dimmer,8] [Slater,12] 
+2,Masker,sword:      [Hater,5] 
+1: Hater,9 Dimmer,44 Slater,16 Rusher,100 Rifter,100 
+2: Masker,37 
+
+Round 8
+1: Hater,9 Dimmer,44 Slater,16 Rusher,100 Rifter,100 
+2: Masker,37 
+1,Hater,gloves:      [Masker,1] 
+1,Hater,rock:        [Masker,1] 
+1,Dimmer,wand:       [Masker,6] 
+1,Slater,slingshot:  [Masker,1] 
+2,Masker,wand:       [Hater,8] [Dimmer,8] [Slater,12] 
+2,Masker,sword:      [Hater,5] 
+1: Dimmer,36 Slater,4 Rusher,100 Rifter,100 
+2: Masker,28 
+
+Round 9
+1: Dimmer,36 Slater,4 Rusher,100 Rifter,100 
+2: Masker,28 
+1,Dimmer,wand:       [Masker,6] 
+1,Slater,slingshot:  [Masker,1] 
+2,Masker,wand:       [Dimmer,8] [Slater,12] [Rusher,10] 
+2,Masker,sword:      [Dimmer,5] 
+1: Dimmer,23 Rusher,90 Rifter,100 
+2: Masker,21 
+
+Round 10
+1: Dimmer,23 Rusher,90 Rifter,100 
+2: Masker,21 
+1,Dimmer,wand:       [Masker,6] 
+1,Rusher,hammer:     [Masker,2] 
+2,Masker,wand:       [Dimmer,8] [Rusher,10] [Rifter,5] 
+2,Masker,sword:      [Dimmer,5] 
+1: Dimmer,10 Rusher,80 Rifter,95 
+2: Masker,13 
+
+Round 11
+1: Dimmer,10 Rusher,80 Rifter,95 
+2: Masker,13 
+1,Dimmer,wand:       [Masker,6] 
+1,Rusher,hammer:     [Masker,2] 
+2,Masker,wand:       [Dimmer,8] [Rusher,10] [Rifter,5] 
+2,Masker,sword:      [Dimmer,5] 
+1: Rusher,70 Rifter,90 
+2: Masker,5 
+
+Round 12
+1: Rusher,70 Rifter,90 
+2: Masker,5 
+1,Rusher,hammer:     [Masker,2] 
+2,Masker,wand:       [Rusher,10] [Rifter,5] 
+2,Masker,sword:      [Rusher,7] 
+1: Rusher,53 Rifter,85 
+2: Masker,3 
+
+Round 13
+1: Rusher,53 Rifter,85 
+2: Masker,3 
+1,Rusher,hammer:     [Masker,2] 
+2,Masker,wand:       [Rusher,10] [Rifter,5] 
+2,Masker,sword:      [Rusher,7] 
+1: Rusher,36 Rifter,80 
+2: Masker,1 
+
+Round 14
+1: Rusher,36 Rifter,80 
+2: Masker,1 
+1,Rusher,hammer:     [Masker,2] 
+2,Masker,wand:       [Rusher,10] [Rifter,5] 
+2,Masker,sword:      [Rusher,7] 
+1: Rusher,19 Rifter,75 
+2: 
+
+WINNER: 1

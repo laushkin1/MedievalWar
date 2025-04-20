@@ -1,0 +1,188 @@
+Army 1
+    Unit: 0
+    Name: Wren
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+
+    Unit: 1
+    Name: Elio
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+    Item 2: dagger,4,0,1,0,0
+
+    Unit: 2
+    Name: Juno
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+    Item 2: helmet,1,5,1,0,0
+
+    Unit: 3
+    Name: Hippo
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+    Item 2: wand,12,4,1,4,2
+
+Army 2
+    Unit: 0
+    Name: Smag
+    HP: 100
+    Item 1: spear,6,1,1,1,1
+    Item 2: rock,3,0,1,2,1
+
+    Unit: 1
+    Name: Rio
+    HP: 100
+    Item 1: helmet,1,5,1,0,0
+    Item 2: rock,3,0,1,2,1
+
+    Unit: 2
+    Name: Tipo
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: wand,12,4,1,4,2
+
+Round 1
+1: Wren,100 Elio,100 Juno,100 Hippo,100 
+2: Smag,100 Rio,100 Tipo,100 
+1,Wren,rock:         [Smag,2] [Rio,1] 
+1,Hippo,wand:        [Smag,11] [Rio,7] [Tipo,4] 
+2,Smag,spear:        [Wren,6] [Elio,4] 
+2,Smag,rock:         [Wren,3] [Elio,1] 
+2,Rio,rock:          [Wren,3] [Elio,1] 
+2,Tipo,wand:         [Wren,12] [Elio,10] [Juno,5] 
+2,Tipo,wand:         [Wren,12] [Elio,10] [Juno,5] 
+1: Wren,64 Elio,74 Juno,90 Hippo,100 
+2: Smag,87 Rio,92 Tipo,96 
+
+Round 2
+1: Wren,64 Elio,74 Juno,90 Hippo,100 
+2: Smag,87 Rio,92 Tipo,96 
+1,Wren,rock:         [Smag,2] [Rio,1] 
+1,Hippo,wand:        [Smag,11] [Rio,7] [Tipo,4] 
+2,Smag,spear:        [Wren,6] [Elio,4] 
+2,Smag,rock:         [Wren,3] [Elio,1] 
+2,Rio,rock:          [Wren,3] [Elio,1] 
+2,Tipo,wand:         [Wren,12] [Elio,10] [Juno,5] 
+2,Tipo,wand:         [Wren,12] [Elio,10] [Juno,5] 
+1: Wren,28 Elio,48 Juno,80 Hippo,100 
+2: Smag,74 Rio,84 Tipo,92 
+
+Round 3
+1: Wren,28 Elio,48 Juno,80 Hippo,100 
+2: Smag,74 Rio,84 Tipo,92 
+1,Wren,rock:         [Smag,2] [Rio,1] 
+1,Hippo,wand:        [Smag,11] [Rio,7] [Tipo,4] 
+2,Smag,spear:        [Wren,6] [Elio,4] 
+2,Smag,rock:         [Wren,3] [Elio,1] 
+2,Rio,rock:          [Wren,3] [Elio,1] 
+2,Tipo,wand:         [Wren,12] [Elio,10] [Juno,5] 
+2,Tipo,wand:         [Wren,12] [Elio,10] [Juno,5] 
+1: Elio,22 Juno,70 Hippo,100 
+2: Smag,61 Rio,76 Tipo,88 
+
+Round 4
+1: Elio,22 Juno,70 Hippo,100 
+2: Smag,61 Rio,76 Tipo,88 
+1,Elio,sword:        [Smag,8] 
+1,Elio,dagger:       [Smag,3] 
+1,Hippo,wand:        [Smag,11] [Rio,7] [Tipo,4] 
+2,Smag,spear:        [Elio,4] [Juno,1] 
+2,Smag,rock:         [Elio,1] [Juno,1] 
+2,Rio,rock:          [Elio,1] [Juno,1] 
+2,Tipo,wand:         [Elio,10] [Juno,5] [Hippo,6] 
+2,Tipo,wand:         [Elio,10] [Juno,5] [Hippo,6] 
+1: Juno,57 Hippo,88 
+2: Smag,39 Rio,69 Tipo,84 
+
+Round 5
+1: Juno,57 Hippo,88 
+2: Smag,39 Rio,69 Tipo,84 
+1,Juno,sword:        [Smag,8] 
+1,Juno,helmet:       [Smag,1] 
+1,Hippo,wand:        [Smag,11] [Rio,7] [Tipo,4] 
+2,Smag,spear:        [Juno,1] [Hippo,1] 
+2,Smag,rock:         [Juno,1] [Hippo,1] 
+2,Rio,rock:          [Juno,1] [Hippo,1] 
+2,Tipo,wand:         [Juno,5] [Hippo,6] 
+2,Tipo,wand:         [Juno,5] [Hippo,6] 
+1: Juno,44 Hippo,73 
+2: Smag,19 Rio,62 Tipo,80 
+
+Round 6
+1: Juno,44 Hippo,73 
+2: Smag,19 Rio,62 Tipo,80 
+1,Juno,sword:        [Smag,8] 
+1,Juno,helmet:       [Smag,1] 
+1,Hippo,wand:        [Smag,11] [Rio,7] [Tipo,4] 
+2,Smag,spear:        [Juno,1] [Hippo,1] 
+2,Smag,rock:         [Juno,1] [Hippo,1] 
+2,Rio,rock:          [Juno,1] [Hippo,1] 
+2,Tipo,wand:         [Juno,5] [Hippo,6] 
+2,Tipo,wand:         [Juno,5] [Hippo,6] 
+1: Juno,31 Hippo,58 
+2: Rio,55 Tipo,76 
+
+Round 7
+1: Juno,31 Hippo,58 
+2: Rio,55 Tipo,76 
+1,Juno,sword:        [Rio,4] 
+1,Juno,helmet:       [Rio,1] 
+1,Hippo,wand:        [Rio,7] [Tipo,4] 
+2,Rio,helmet:        [Juno,1] 
+2,Rio,rock:          [Juno,1] [Hippo,1] 
+2,Tipo,wand:         [Juno,5] [Hippo,6] 
+2,Tipo,wand:         [Juno,5] [Hippo,6] 
+1: Juno,19 Hippo,45 
+2: Rio,43 Tipo,72 
+
+Round 8
+1: Juno,19 Hippo,45 
+2: Rio,43 Tipo,72 
+1,Juno,sword:        [Rio,4] 
+1,Juno,helmet:       [Rio,1] 
+1,Hippo,wand:        [Rio,7] [Tipo,4] 
+2,Rio,helmet:        [Juno,1] 
+2,Rio,rock:          [Juno,1] [Hippo,1] 
+2,Tipo,wand:         [Juno,5] [Hippo,6] 
+2,Tipo,wand:         [Juno,5] [Hippo,6] 
+1: Juno,7 Hippo,32 
+2: Rio,31 Tipo,68 
+
+Round 9
+1: Juno,7 Hippo,32 
+2: Rio,31 Tipo,68 
+1,Juno,sword:        [Rio,4] 
+1,Juno,helmet:       [Rio,1] 
+1,Hippo,wand:        [Rio,7] [Tipo,4] 
+2,Rio,helmet:        [Juno,1] 
+2,Rio,rock:          [Juno,1] [Hippo,1] 
+2,Tipo,wand:         [Juno,5] [Hippo,6] 
+2,Tipo,wand:         [Juno,5] [Hippo,6] 
+1: Hippo,19 
+2: Rio,19 Tipo,64 
+
+Round 10
+1: Hippo,19 
+2: Rio,19 Tipo,64 
+1,Hippo,sword:       [Rio,4] 
+1,Hippo,wand:        [Rio,7] [Tipo,4] 
+2,Rio,helmet:        [Hippo,1] 
+2,Rio,rock:          [Hippo,1] 
+2,Tipo,wand:         [Hippo,6] 
+2,Tipo,wand:         [Hippo,6] 
+1: Hippo,5 
+2: Rio,8 Tipo,60 
+
+Round 11
+1: Hippo,5 
+2: Rio,8 Tipo,60 
+1,Hippo,sword:       [Rio,4] 
+1,Hippo,wand:        [Rio,7] [Tipo,4] 
+2,Rio,helmet:        [Hippo,1] 
+2,Rio,rock:          [Hippo,1] 
+2,Tipo,wand:         [Hippo,6] 
+2,Tipo,wand:         [Hippo,6] 
+1: 
+2: Tipo,56 
+
+WINNER: 2

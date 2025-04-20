@@ -1,0 +1,151 @@
+Army 1
+    Unit: 0
+    Name: Nilon
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+
+    Unit: 1
+    Name: Teron
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: shield,2,6,1,0,0
+
+    Unit: 2
+    Name: Pluto
+    HP: 100
+    Item 1: shield,2,6,1,0,0
+
+Army 2
+    Unit: 0
+    Name: Jupo
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+    Item 2: sword,9,2,1,0,0
+
+    Unit: 1
+    Name: Wabo
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: fireball,11,0,1,3,3
+
+    Unit: 2
+    Name: Lipet
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+
+Round 1
+1: Nilon,100 Teron,100 Pluto,100 
+2: Jupo,100 Wabo,100 Lipet,100 
+1,Nilon,sword:       [Jupo,7] 
+1,Teron,wand:        [Jupo,10] [Wabo,12] [Lipet,12] 
+2,Jupo,dagger:       [Nilon,2] 
+2,Jupo,sword:        [Nilon,7] 
+2,Wabo,fireball:     [Nilon,9] [Teron,1] [Pluto,5] 
+2,Wabo,fireball:     [Nilon,9] [Teron,1] [Pluto,5] 
+2,Lipet,fireball:    [Nilon,9] [Teron,1] [Pluto,5] 
+1: Nilon,64 Teron,97 Pluto,85 
+2: Jupo,83 Wabo,88 Lipet,88 
+
+Round 2
+1: Nilon,64 Teron,97 Pluto,85 
+2: Jupo,83 Wabo,88 Lipet,88 
+1,Nilon,sword:       [Jupo,7] 
+1,Teron,wand:        [Jupo,10] [Wabo,12] [Lipet,12] 
+2,Jupo,dagger:       [Nilon,2] 
+2,Jupo,sword:        [Nilon,7] 
+2,Wabo,fireball:     [Nilon,9] [Teron,1] [Pluto,5] 
+2,Wabo,fireball:     [Nilon,9] [Teron,1] [Pluto,5] 
+2,Lipet,fireball:    [Nilon,9] [Teron,1] [Pluto,5] 
+1: Nilon,28 Teron,94 Pluto,70 
+2: Jupo,66 Wabo,76 Lipet,76 
+
+Round 3
+1: Nilon,28 Teron,94 Pluto,70 
+2: Jupo,66 Wabo,76 Lipet,76 
+1,Nilon,sword:       [Jupo,7] 
+1,Teron,wand:        [Jupo,10] [Wabo,12] [Lipet,12] 
+2,Jupo,dagger:       [Nilon,2] 
+2,Jupo,sword:        [Nilon,7] 
+2,Wabo,fireball:     [Nilon,9] [Teron,1] [Pluto,5] 
+2,Wabo,fireball:     [Nilon,9] [Teron,1] [Pluto,5] 
+2,Lipet,fireball:    [Nilon,9] [Teron,1] [Pluto,5] 
+1: Teron,91 Pluto,55 
+2: Jupo,49 Wabo,64 Lipet,64 
+
+Round 4
+1: Teron,91 Pluto,55 
+2: Jupo,49 Wabo,64 Lipet,64 
+1,Teron,wand:        [Jupo,10] [Wabo,12] [Lipet,12] 
+1,Teron,shield:      [Jupo,1] 
+2,Jupo,dagger:       [Teron,1] 
+2,Jupo,sword:        [Teron,1] 
+2,Wabo,fireball:     [Teron,1] [Pluto,5] 
+2,Wabo,fireball:     [Teron,1] [Pluto,5] 
+2,Lipet,fireball:    [Teron,1] [Pluto,5] 
+1: Teron,86 Pluto,40 
+2: Jupo,38 Wabo,52 Lipet,52 
+
+Round 5
+1: Teron,86 Pluto,40 
+2: Jupo,38 Wabo,52 Lipet,52 
+1,Teron,wand:        [Jupo,10] [Wabo,12] [Lipet,12] 
+1,Teron,shield:      [Jupo,1] 
+2,Jupo,dagger:       [Teron,1] 
+2,Jupo,sword:        [Teron,1] 
+2,Wabo,fireball:     [Teron,1] [Pluto,5] 
+2,Wabo,fireball:     [Teron,1] [Pluto,5] 
+2,Lipet,fireball:    [Teron,1] [Pluto,5] 
+1: Teron,81 Pluto,25 
+2: Jupo,27 Wabo,40 Lipet,40 
+
+Round 6
+1: Teron,81 Pluto,25 
+2: Jupo,27 Wabo,40 Lipet,40 
+1,Teron,wand:        [Jupo,10] [Wabo,12] [Lipet,12] 
+1,Teron,shield:      [Jupo,1] 
+2,Jupo,dagger:       [Teron,1] 
+2,Jupo,sword:        [Teron,1] 
+2,Wabo,fireball:     [Teron,1] [Pluto,5] 
+2,Wabo,fireball:     [Teron,1] [Pluto,5] 
+2,Lipet,fireball:    [Teron,1] [Pluto,5] 
+1: Teron,76 Pluto,10 
+2: Jupo,16 Wabo,28 Lipet,28 
+
+Round 7
+1: Teron,76 Pluto,10 
+2: Jupo,16 Wabo,28 Lipet,28 
+1,Teron,wand:        [Jupo,10] [Wabo,12] [Lipet,12] 
+1,Teron,shield:      [Jupo,1] 
+2,Jupo,dagger:       [Teron,1] 
+2,Jupo,sword:        [Teron,1] 
+2,Wabo,fireball:     [Teron,1] [Pluto,5] 
+2,Wabo,fireball:     [Teron,1] [Pluto,5] 
+2,Lipet,fireball:    [Teron,1] [Pluto,5] 
+1: Teron,71 
+2: Jupo,5 Wabo,16 Lipet,16 
+
+Round 8
+1: Teron,71 
+2: Jupo,5 Wabo,16 Lipet,16 
+1,Teron,wand:        [Jupo,10] [Wabo,12] [Lipet,12] 
+1,Teron,shield:      [Jupo,1] 
+2,Jupo,dagger:       [Teron,1] 
+2,Jupo,sword:        [Teron,1] 
+2,Wabo,fireball:     [Teron,1] 
+2,Wabo,fireball:     [Teron,1] 
+2,Lipet,fireball:    [Teron,1] 
+1: Teron,66 
+2: Wabo,4 Lipet,4 
+
+Round 9
+1: Teron,66 
+2: Wabo,4 Lipet,4 
+1,Teron,wand:        [Wabo,12] [Lipet,12] 
+1,Teron,shield:      [Wabo,2] 
+2,Wabo,fireball:     [Teron,1] 
+2,Wabo,fireball:     [Teron,1] 
+2,Lipet,fireball:    [Teron,1] 
+1: Teron,63 
+2: 
+
+WINNER: 1

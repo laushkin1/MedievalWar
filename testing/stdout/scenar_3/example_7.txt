@@ -1,0 +1,165 @@
+Army 1
+    Unit: 0
+    Name: Gabo
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: rock,3,0,1,2,1
+
+Army 2
+    Unit: 0
+    Name: Gaspar
+    HP: 100
+    Item 1: gloves,1,4,1,0,0
+    Item 2: sword,9,2,1,0,0
+
+Round 1
+1: Gabo,100 
+2: Gaspar,100 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,94 
+2: Gaspar,93 
+
+Round 2
+1: Gabo,94 
+2: Gaspar,93 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,88 
+2: Gaspar,86 
+
+Round 3
+1: Gabo,88 
+2: Gaspar,86 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,82 
+2: Gaspar,79 
+
+Round 4
+1: Gabo,82 
+2: Gaspar,79 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,76 
+2: Gaspar,72 
+
+Round 5
+1: Gabo,76 
+2: Gaspar,72 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,70 
+2: Gaspar,65 
+
+Round 6
+1: Gabo,70 
+2: Gaspar,65 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,64 
+2: Gaspar,58 
+
+Round 7
+1: Gabo,64 
+2: Gaspar,58 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,58 
+2: Gaspar,51 
+
+Round 8
+1: Gabo,58 
+2: Gaspar,51 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,52 
+2: Gaspar,44 
+
+Round 9
+1: Gabo,52 
+2: Gaspar,44 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,46 
+2: Gaspar,37 
+
+Round 10
+1: Gabo,46 
+2: Gaspar,37 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,40 
+2: Gaspar,30 
+
+Round 11
+1: Gabo,40 
+2: Gaspar,30 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,34 
+2: Gaspar,23 
+
+Round 12
+1: Gabo,34 
+2: Gaspar,23 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,28 
+2: Gaspar,16 
+
+Round 13
+1: Gabo,28 
+2: Gaspar,16 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,22 
+2: Gaspar,9 
+
+Round 14
+1: Gabo,22 
+2: Gaspar,9 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,16 
+2: Gaspar,2 
+
+Round 15
+1: Gabo,16 
+2: Gaspar,2 
+1,Gabo,wand:         [Gaspar,6] 
+1,Gabo,rock:         [Gaspar,1] 
+2,Gaspar,gloves:     [Gabo,1] 
+2,Gaspar,sword:      [Gabo,5] 
+1: Gabo,10 
+2: 
+
+WINNER: 1

@@ -1,0 +1,7 @@
+3
+peter sword
+john dagger wand
+mike aura fireball
+2
+tim crossbow
+paul paper dart

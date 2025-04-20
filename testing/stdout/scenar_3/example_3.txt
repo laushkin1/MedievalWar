@@ -1,0 +1,464 @@
+Army 1
+    Unit: 0
+    Name: Libor
+    HP: 100
+    Item 1: helmet,1,5,1,0,0
+
+Army 2
+    Unit: 0
+    Name: Noro
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+    Item 2: armor,2,7,1,0,0
+
+Round 1
+1: Libor,100 
+2: Noro,100 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,98 
+2: Noro,99 
+
+Round 2
+1: Libor,98 
+2: Noro,99 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,96 
+2: Noro,98 
+
+Round 3
+1: Libor,96 
+2: Noro,98 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,94 
+2: Noro,97 
+
+Round 4
+1: Libor,94 
+2: Noro,97 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,92 
+2: Noro,96 
+
+Round 5
+1: Libor,92 
+2: Noro,96 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,90 
+2: Noro,95 
+
+Round 6
+1: Libor,90 
+2: Noro,95 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,88 
+2: Noro,94 
+
+Round 7
+1: Libor,88 
+2: Noro,94 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,86 
+2: Noro,93 
+
+Round 8
+1: Libor,86 
+2: Noro,93 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,84 
+2: Noro,92 
+
+Round 9
+1: Libor,84 
+2: Noro,92 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,82 
+2: Noro,91 
+
+Round 10
+1: Libor,82 
+2: Noro,91 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,80 
+2: Noro,90 
+
+Round 11
+1: Libor,80 
+2: Noro,90 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,78 
+2: Noro,89 
+
+Round 12
+1: Libor,78 
+2: Noro,89 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,76 
+2: Noro,88 
+
+Round 13
+1: Libor,76 
+2: Noro,88 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,74 
+2: Noro,87 
+
+Round 14
+1: Libor,74 
+2: Noro,87 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,72 
+2: Noro,86 
+
+Round 15
+1: Libor,72 
+2: Noro,86 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,70 
+2: Noro,85 
+
+Round 16
+1: Libor,70 
+2: Noro,85 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,68 
+2: Noro,84 
+
+Round 17
+1: Libor,68 
+2: Noro,84 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,66 
+2: Noro,83 
+
+Round 18
+1: Libor,66 
+2: Noro,83 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,64 
+2: Noro,82 
+
+Round 19
+1: Libor,64 
+2: Noro,82 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,62 
+2: Noro,81 
+
+Round 20
+1: Libor,62 
+2: Noro,81 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,60 
+2: Noro,80 
+
+Round 21
+1: Libor,60 
+2: Noro,80 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,58 
+2: Noro,79 
+
+Round 22
+1: Libor,58 
+2: Noro,79 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,56 
+2: Noro,78 
+
+Round 23
+1: Libor,56 
+2: Noro,78 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,54 
+2: Noro,77 
+
+Round 24
+1: Libor,54 
+2: Noro,77 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,52 
+2: Noro,76 
+
+Round 25
+1: Libor,52 
+2: Noro,76 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,50 
+2: Noro,75 
+
+Round 26
+1: Libor,50 
+2: Noro,75 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,48 
+2: Noro,74 
+
+Round 27
+1: Libor,48 
+2: Noro,74 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,46 
+2: Noro,73 
+
+Round 28
+1: Libor,46 
+2: Noro,73 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,44 
+2: Noro,72 
+
+Round 29
+1: Libor,44 
+2: Noro,72 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,42 
+2: Noro,71 
+
+Round 30
+1: Libor,42 
+2: Noro,71 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,40 
+2: Noro,70 
+
+Round 31
+1: Libor,40 
+2: Noro,70 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,38 
+2: Noro,69 
+
+Round 32
+1: Libor,38 
+2: Noro,69 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,36 
+2: Noro,68 
+
+Round 33
+1: Libor,36 
+2: Noro,68 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,34 
+2: Noro,67 
+
+Round 34
+1: Libor,34 
+2: Noro,67 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,32 
+2: Noro,66 
+
+Round 35
+1: Libor,32 
+2: Noro,66 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,30 
+2: Noro,65 
+
+Round 36
+1: Libor,30 
+2: Noro,65 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,28 
+2: Noro,64 
+
+Round 37
+1: Libor,28 
+2: Noro,64 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,26 
+2: Noro,63 
+
+Round 38
+1: Libor,26 
+2: Noro,63 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,24 
+2: Noro,62 
+
+Round 39
+1: Libor,24 
+2: Noro,62 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,22 
+2: Noro,61 
+
+Round 40
+1: Libor,22 
+2: Noro,61 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,20 
+2: Noro,60 
+
+Round 41
+1: Libor,20 
+2: Noro,60 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,18 
+2: Noro,59 
+
+Round 42
+1: Libor,18 
+2: Noro,59 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,16 
+2: Noro,58 
+
+Round 43
+1: Libor,16 
+2: Noro,58 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,14 
+2: Noro,57 
+
+Round 44
+1: Libor,14 
+2: Noro,57 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,12 
+2: Noro,56 
+
+Round 45
+1: Libor,12 
+2: Noro,56 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,10 
+2: Noro,55 
+
+Round 46
+1: Libor,10 
+2: Noro,55 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,8 
+2: Noro,54 
+
+Round 47
+1: Libor,8 
+2: Noro,54 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,6 
+2: Noro,53 
+
+Round 48
+1: Libor,6 
+2: Noro,53 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,4 
+2: Noro,52 
+
+Round 49
+1: Libor,4 
+2: Noro,52 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: Libor,2 
+2: Noro,51 
+
+Round 50
+1: Libor,2 
+2: Noro,51 
+1,Libor,helmet:      [Noro,1] 
+2,Noro,rock:         [Libor,1] 
+2,Noro,armor:        [Libor,1] 
+1: 
+2: Noro,50 
+
+WINNER: 2

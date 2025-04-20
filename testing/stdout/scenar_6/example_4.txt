@@ -1,0 +1,221 @@
+Army 1
+    Unit: 0
+    Name: Majlo
+    HP: 100
+    Item 1: helmet,1,5,1,0,0
+    Item 2: wand,12,4,1,4,2
+
+Army 2
+    Unit: 0
+    Name: Kripo
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+    Item 2: spear,6,1,1,1,1
+
+    Unit: 1
+    Name: Leon
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 2
+    Name: Hargo
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 3
+    Name: Marco
+    HP: 100
+    Item 1: spear,6,1,1,1,1
+
+Round 1
+1: Majlo,100 
+2: Kripo,100 Leon,100 Hargo,100 Marco,100 
+1,Majlo,helmet:      [Kripo,1] 
+1,Majlo,wand:        [Kripo,9] [Leon,10] [Hargo,10] 
+2,Kripo,sword:       [Majlo,1] 
+2,Kripo,spear:       [Majlo,1] 
+2,Leon,axe:          [Majlo,1] 
+1: Majlo,97 
+2: Kripo,90 Leon,90 Hargo,90 Marco,100 
+
+Round 2
+1: Majlo,97 
+2: Kripo,90 Leon,90 Hargo,90 Marco,100 
+1,Majlo,helmet:      [Kripo,1] 
+1,Majlo,wand:        [Kripo,9] [Leon,10] [Hargo,10] 
+2,Kripo,sword:       [Majlo,1] 
+2,Kripo,spear:       [Majlo,1] 
+2,Leon,axe:          [Majlo,1] 
+1: Majlo,94 
+2: Kripo,80 Leon,80 Hargo,80 Marco,100 
+
+Round 3
+1: Majlo,94 
+2: Kripo,80 Leon,80 Hargo,80 Marco,100 
+1,Majlo,helmet:      [Kripo,1] 
+1,Majlo,wand:        [Kripo,9] [Leon,10] [Hargo,10] 
+2,Kripo,sword:       [Majlo,1] 
+2,Kripo,spear:       [Majlo,1] 
+2,Leon,axe:          [Majlo,1] 
+1: Majlo,91 
+2: Kripo,70 Leon,70 Hargo,70 Marco,100 
+
+Round 4
+1: Majlo,91 
+2: Kripo,70 Leon,70 Hargo,70 Marco,100 
+1,Majlo,helmet:      [Kripo,1] 
+1,Majlo,wand:        [Kripo,9] [Leon,10] [Hargo,10] 
+2,Kripo,sword:       [Majlo,1] 
+2,Kripo,spear:       [Majlo,1] 
+2,Leon,axe:          [Majlo,1] 
+1: Majlo,88 
+2: Kripo,60 Leon,60 Hargo,60 Marco,100 
+
+Round 5
+1: Majlo,88 
+2: Kripo,60 Leon,60 Hargo,60 Marco,100 
+1,Majlo,helmet:      [Kripo,1] 
+1,Majlo,wand:        [Kripo,9] [Leon,10] [Hargo,10] 
+2,Kripo,sword:       [Majlo,1] 
+2,Kripo,spear:       [Majlo,1] 
+2,Leon,axe:          [Majlo,1] 
+1: Majlo,85 
+2: Kripo,50 Leon,50 Hargo,50 Marco,100 
+
+Round 6
+1: Majlo,85 
+2: Kripo,50 Leon,50 Hargo,50 Marco,100 
+1,Majlo,helmet:      [Kripo,1] 
+1,Majlo,wand:        [Kripo,9] [Leon,10] [Hargo,10] 
+2,Kripo,sword:       [Majlo,1] 
+2,Kripo,spear:       [Majlo,1] 
+2,Leon,axe:          [Majlo,1] 
+1: Majlo,82 
+2: Kripo,40 Leon,40 Hargo,40 Marco,100 
+
+Round 7
+1: Majlo,82 
+2: Kripo,40 Leon,40 Hargo,40 Marco,100 
+1,Majlo,helmet:      [Kripo,1] 
+1,Majlo,wand:        [Kripo,9] [Leon,10] [Hargo,10] 
+2,Kripo,sword:       [Majlo,1] 
+2,Kripo,spear:       [Majlo,1] 
+2,Leon,axe:          [Majlo,1] 
+1: Majlo,79 
+2: Kripo,30 Leon,30 Hargo,30 Marco,100 
+
+Round 8
+1: Majlo,79 
+2: Kripo,30 Leon,30 Hargo,30 Marco,100 
+1,Majlo,helmet:      [Kripo,1] 
+1,Majlo,wand:        [Kripo,9] [Leon,10] [Hargo,10] 
+2,Kripo,sword:       [Majlo,1] 
+2,Kripo,spear:       [Majlo,1] 
+2,Leon,axe:          [Majlo,1] 
+1: Majlo,76 
+2: Kripo,20 Leon,20 Hargo,20 Marco,100 
+
+Round 9
+1: Majlo,76 
+2: Kripo,20 Leon,20 Hargo,20 Marco,100 
+1,Majlo,helmet:      [Kripo,1] 
+1,Majlo,wand:        [Kripo,9] [Leon,10] [Hargo,10] 
+2,Kripo,sword:       [Majlo,1] 
+2,Kripo,spear:       [Majlo,1] 
+2,Leon,axe:          [Majlo,1] 
+1: Majlo,73 
+2: Kripo,10 Leon,10 Hargo,10 Marco,100 
+
+Round 10
+1: Majlo,73 
+2: Kripo,10 Leon,10 Hargo,10 Marco,100 
+1,Majlo,helmet:      [Kripo,1] 
+1,Majlo,wand:        [Kripo,9] [Leon,10] [Hargo,10] 
+2,Kripo,sword:       [Majlo,1] 
+2,Kripo,spear:       [Majlo,1] 
+2,Leon,axe:          [Majlo,1] 
+1: Majlo,70 
+2: Marco,100 
+
+Round 11
+1: Majlo,70 
+2: Marco,100 
+1,Majlo,helmet:      [Marco,1] 
+1,Majlo,wand:        [Marco,11] 
+2,Marco,spear:       [Majlo,1] 
+1: Majlo,69 
+2: Marco,88 
+
+Round 12
+1: Majlo,69 
+2: Marco,88 
+1,Majlo,helmet:      [Marco,1] 
+1,Majlo,wand:        [Marco,11] 
+2,Marco,spear:       [Majlo,1] 
+1: Majlo,68 
+2: Marco,76 
+
+Round 13
+1: Majlo,68 
+2: Marco,76 
+1,Majlo,helmet:      [Marco,1] 
+1,Majlo,wand:        [Marco,11] 
+2,Marco,spear:       [Majlo,1] 
+1: Majlo,67 
+2: Marco,64 
+
+Round 14
+1: Majlo,67 
+2: Marco,64 
+1,Majlo,helmet:      [Marco,1] 
+1,Majlo,wand:        [Marco,11] 
+2,Marco,spear:       [Majlo,1] 
+1: Majlo,66 
+2: Marco,52 
+
+Round 15
+1: Majlo,66 
+2: Marco,52 
+1,Majlo,helmet:      [Marco,1] 
+1,Majlo,wand:        [Marco,11] 
+2,Marco,spear:       [Majlo,1] 
+1: Majlo,65 
+2: Marco,40 
+
+Round 16
+1: Majlo,65 
+2: Marco,40 
+1,Majlo,helmet:      [Marco,1] 
+1,Majlo,wand:        [Marco,11] 
+2,Marco,spear:       [Majlo,1] 
+1: Majlo,64 
+2: Marco,28 
+
+Round 17
+1: Majlo,64 
+2: Marco,28 
+1,Majlo,helmet:      [Marco,1] 
+1,Majlo,wand:        [Marco,11] 
+2,Marco,spear:       [Majlo,1] 
+1: Majlo,63 
+2: Marco,16 
+
+Round 18
+1: Majlo,63 
+2: Marco,16 
+1,Majlo,helmet:      [Marco,1] 
+1,Majlo,wand:        [Marco,11] 
+2,Marco,spear:       [Majlo,1] 
+1: Majlo,62 
+2: Marco,4 
+
+Round 19
+1: Majlo,62 
+2: Marco,4 
+1,Majlo,helmet:      [Marco,1] 
+1,Majlo,wand:        [Marco,11] 
+2,Marco,spear:       [Majlo,1] 
+1: Majlo,61 
+2: 
+
+WINNER: 1

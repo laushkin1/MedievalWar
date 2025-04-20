@@ -1,0 +1,17 @@
+Army 1
+    Unit: 0
+    Name: Gejza
+    HP: 100
+    Item 1: crossbow,5,1,2,3,0
+
+Army 2
+    Unit: 0
+    Name: Alojz
+    HP: 100
+    Item 1: hammer,8,2,2,1,2
+
+    Unit: 1
+    Name: Felix
+    HP: 100
+    Item 1: armor,2,7,1,0,0
+    Item 2: spear,6,1,1,1,1

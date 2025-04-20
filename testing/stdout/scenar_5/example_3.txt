@@ -1,0 +1,133 @@
+Army 1
+    Unit: 0
+    Name: Sveto
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: wand,12,4,1,4,2
+
+Army 2
+    Unit: 0
+    Name: Stevo
+    HP: 100
+    Item 1: helmet,1,5,1,0,0
+
+    Unit: 1
+    Name: Teo
+    HP: 100
+    Item 1: slingshot,2,0,2,2,1
+
+    Unit: 2
+    Name: Tibor
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+
+    Unit: 3
+    Name: Timo
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 4
+    Name: Tobi
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: shield,2,6,1,0,0
+
+Round 1
+1: Sveto,100 
+2: Stevo,100 Teo,100 Tibor,100 Timo,100 Tobi,100 
+1,Sveto,fireball:    [Stevo,6] [Teo,11] [Tibor,7] [Timo,9] 
+1,Sveto,wand:        [Stevo,7] [Teo,12] [Tibor,8] 
+2,Stevo,helmet:      [Sveto,1] 
+2,Teo,slingshot:     [Sveto,1] 
+2,Tibor,wand:        [Sveto,8] 
+1: Sveto,90 
+2: Stevo,87 Teo,77 Tibor,85 Timo,91 Tobi,100 
+
+Round 2
+1: Sveto,90 
+2: Stevo,87 Teo,77 Tibor,85 Timo,91 Tobi,100 
+1,Sveto,fireball:    [Stevo,6] [Teo,11] [Tibor,7] [Timo,9] 
+1,Sveto,wand:        [Stevo,7] [Teo,12] [Tibor,8] 
+2,Stevo,helmet:      [Sveto,1] 
+2,Teo,slingshot:     [Sveto,1] 
+2,Tibor,wand:        [Sveto,8] 
+1: Sveto,80 
+2: Stevo,74 Teo,54 Tibor,70 Timo,82 Tobi,100 
+
+Round 3
+1: Sveto,80 
+2: Stevo,74 Teo,54 Tibor,70 Timo,82 Tobi,100 
+1,Sveto,fireball:    [Stevo,6] [Teo,11] [Tibor,7] [Timo,9] 
+1,Sveto,wand:        [Stevo,7] [Teo,12] [Tibor,8] 
+2,Stevo,helmet:      [Sveto,1] 
+2,Teo,slingshot:     [Sveto,1] 
+2,Tibor,wand:        [Sveto,8] 
+1: Sveto,70 
+2: Stevo,61 Teo,31 Tibor,55 Timo,73 Tobi,100 
+
+Round 4
+1: Sveto,70 
+2: Stevo,61 Teo,31 Tibor,55 Timo,73 Tobi,100 
+1,Sveto,fireball:    [Stevo,6] [Teo,11] [Tibor,7] [Timo,9] 
+1,Sveto,wand:        [Stevo,7] [Teo,12] [Tibor,8] 
+2,Stevo,helmet:      [Sveto,1] 
+2,Teo,slingshot:     [Sveto,1] 
+2,Tibor,wand:        [Sveto,8] 
+1: Sveto,60 
+2: Stevo,48 Teo,8 Tibor,40 Timo,64 Tobi,100 
+
+Round 5
+1: Sveto,60 
+2: Stevo,48 Teo,8 Tibor,40 Timo,64 Tobi,100 
+1,Sveto,fireball:    [Stevo,6] [Teo,11] [Tibor,7] [Timo,9] 
+1,Sveto,wand:        [Stevo,7] [Teo,12] [Tibor,8] 
+2,Stevo,helmet:      [Sveto,1] 
+2,Teo,slingshot:     [Sveto,1] 
+2,Tibor,wand:        [Sveto,8] 
+1: Sveto,50 
+2: Stevo,35 Tibor,25 Timo,55 Tobi,100 
+
+Round 6
+1: Sveto,50 
+2: Stevo,35 Tibor,25 Timo,55 Tobi,100 
+1,Sveto,fireball:    [Stevo,6] [Tibor,7] [Timo,9] [Tobi,5] 
+1,Sveto,wand:        [Stevo,7] [Tibor,8] [Timo,10] 
+2,Stevo,helmet:      [Sveto,1] 
+2,Tibor,wand:        [Sveto,8] 
+2,Tobi,fireball:     [Sveto,7] 
+1: Sveto,34 
+2: Stevo,22 Tibor,10 Timo,36 Tobi,95 
+
+Round 7
+1: Sveto,34 
+2: Stevo,22 Tibor,10 Timo,36 Tobi,95 
+1,Sveto,fireball:    [Stevo,6] [Tibor,7] [Timo,9] [Tobi,5] 
+1,Sveto,wand:        [Stevo,7] [Tibor,8] [Timo,10] 
+2,Stevo,helmet:      [Sveto,1] 
+2,Tibor,wand:        [Sveto,8] 
+2,Tobi,fireball:     [Sveto,7] 
+1: Sveto,18 
+2: Stevo,9 Timo,17 Tobi,90 
+
+Round 8
+1: Sveto,18 
+2: Stevo,9 Timo,17 Tobi,90 
+1,Sveto,fireball:    [Stevo,6] [Timo,9] [Tobi,5] 
+1,Sveto,wand:        [Stevo,7] [Timo,10] [Tobi,6] 
+2,Stevo,helmet:      [Sveto,1] 
+2,Timo,axe:          [Sveto,6] 
+2,Tobi,fireball:     [Sveto,7] 
+1: Sveto,4 
+2: Tobi,79 
+
+Round 9
+1: Sveto,4 
+2: Tobi,79 
+1,Sveto,fireball:    [Tobi,5] 
+1,Sveto,wand:        [Tobi,6] 
+2,Tobi,fireball:     [Sveto,7] 
+2,Tobi,shield:       [Sveto,1] 
+1: 
+2: Tobi,68 
+
+WINNER: 2

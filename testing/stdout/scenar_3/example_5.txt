@@ -1,0 +1,117 @@
+Army 1
+    Unit: 0
+    Name: Elias
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+Army 2
+    Unit: 0
+    Name: Emil
+    HP: 100
+    Item 1: hammer,8,2,2,1,2
+
+Round 1
+1: Elias,100 
+2: Emil,100 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,94 
+2: Emil,92 
+
+Round 2
+1: Elias,94 
+2: Emil,92 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,88 
+2: Emil,84 
+
+Round 3
+1: Elias,88 
+2: Emil,84 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,82 
+2: Emil,76 
+
+Round 4
+1: Elias,82 
+2: Emil,76 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,76 
+2: Emil,68 
+
+Round 5
+1: Elias,76 
+2: Emil,68 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,70 
+2: Emil,60 
+
+Round 6
+1: Elias,70 
+2: Emil,60 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,64 
+2: Emil,52 
+
+Round 7
+1: Elias,64 
+2: Emil,52 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,58 
+2: Emil,44 
+
+Round 8
+1: Elias,58 
+2: Emil,44 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,52 
+2: Emil,36 
+
+Round 9
+1: Elias,52 
+2: Emil,36 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,46 
+2: Emil,28 
+
+Round 10
+1: Elias,46 
+2: Emil,28 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,40 
+2: Emil,20 
+
+Round 11
+1: Elias,40 
+2: Emil,20 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,34 
+2: Emil,12 
+
+Round 12
+1: Elias,34 
+2: Emil,12 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,28 
+2: Emil,4 
+
+Round 13
+1: Elias,28 
+2: Emil,4 
+1,Elias,axe:         [Emil,8] 
+2,Emil,hammer:       [Elias,6] 
+1: Elias,22 
+2: 
+
+WINNER: 1

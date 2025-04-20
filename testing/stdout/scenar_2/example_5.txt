@@ -1,0 +1,34 @@
+Army 1
+    Unit: 0
+    Name: Palo
+    HP: 100
+    Item 1: cannon,12,0,2,4,4
+
+    Unit: 1
+    Name: Pankrac
+    HP: 100
+    Item 1: shield,2,6,1,0,0
+    Item 2: rock,3,0,1,2,1
+
+Army 2
+    Unit: 0
+    Name: Jaro
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+    Item 2: gloves,1,4,1,0,0
+
+    Unit: 1
+    Name: Bohus
+    HP: 100
+    Item 1: slingshot,2,0,2,2,1
+
+    Unit: 2
+    Name: Bohdan
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+
+    Unit: 3
+    Name: Jergus
+    HP: 100
+    Item 1: spear,6,1,1,1,1
+    Item 2: spear,6,1,1,1,1

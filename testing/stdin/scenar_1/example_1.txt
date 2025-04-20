@@ -1,0 +1,10 @@
+6
+peter sword
+john dagger wand
+mike aura gloves
+steve gloves shield
+tom wand wand
+kane dagger dagger
+2
+tim crossbow
+paul fireball rock

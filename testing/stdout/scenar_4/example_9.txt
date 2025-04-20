@@ -1,0 +1,148 @@
+Army 1
+    Unit: 0
+    Name: Pato
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 1
+    Name: Palo
+    HP: 100
+    Item 1: wand,12,4,1,4,2
+    Item 2: spear,6,1,1,1,1
+
+    Unit: 2
+    Name: Peto
+    HP: 100
+    Item 1: slingshot,2,0,2,2,1
+
+    Unit: 3
+    Name: Rado
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+
+Army 2
+    Unit: 0
+    Name: Raduz
+    HP: 100
+    Item 1: hammer,8,2,2,1,2
+
+    Unit: 1
+    Name: Rasto
+    HP: 100
+    Item 1: spear,6,1,1,1,1
+
+    Unit: 2
+    Name: Rene
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+
+    Unit: 3
+    Name: Robo
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+    Item 2: wand,12,4,1,4,2
+
+    Unit: 4
+    Name: Rolo
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: fireball,11,0,1,3,3
+
+Round 1
+1: Pato,100 Palo,100 Peto,100 Rado,100 
+2: Raduz,100 Rasto,100 Rene,100 Robo,100 Rolo,100 
+1,Pato,axe:          [Raduz,8] [Rasto,9] 
+1,Palo,wand:         [Raduz,10] [Rasto,11] [Rene,12] 
+1,Palo,spear:        [Raduz,4] [Rasto,5] 
+1,Peto,slingshot:    [Raduz,1] [Rasto,1] 
+1,Rado,fireball:     [Raduz,9] [Rasto,10] [Rene,11] [Robo,5] 
+2,Raduz,hammer:      [Pato,6] [Palo,3] [Peto,8] 
+2,Rasto,spear:       [Pato,4] [Palo,1] 
+2,Robo,wand:         [Pato,10] [Palo,7] [Peto,12] 
+1: Pato,80 Palo,89 Peto,80 Rado,100 
+2: Raduz,68 Rasto,64 Rene,77 Robo,95 Rolo,100 
+
+Round 2
+1: Pato,80 Palo,89 Peto,80 Rado,100 
+2: Raduz,68 Rasto,64 Rene,77 Robo,95 Rolo,100 
+1,Pato,axe:          [Raduz,8] [Rasto,9] 
+1,Palo,wand:         [Raduz,10] [Rasto,11] [Rene,12] 
+1,Palo,spear:        [Raduz,4] [Rasto,5] 
+1,Peto,slingshot:    [Raduz,1] [Rasto,1] 
+1,Rado,fireball:     [Raduz,9] [Rasto,10] [Rene,11] [Robo,5] 
+2,Raduz,hammer:      [Pato,6] [Palo,3] [Peto,8] 
+2,Rasto,spear:       [Pato,4] [Palo,1] 
+2,Robo,wand:         [Pato,10] [Palo,7] [Peto,12] 
+1: Pato,60 Palo,78 Peto,60 Rado,100 
+2: Raduz,36 Rasto,28 Rene,54 Robo,90 Rolo,100 
+
+Round 3
+1: Pato,60 Palo,78 Peto,60 Rado,100 
+2: Raduz,36 Rasto,28 Rene,54 Robo,90 Rolo,100 
+1,Pato,axe:          [Raduz,8] [Rasto,9] 
+1,Palo,wand:         [Raduz,10] [Rasto,11] [Rene,12] 
+1,Palo,spear:        [Raduz,4] [Rasto,5] 
+1,Peto,slingshot:    [Raduz,1] [Rasto,1] 
+1,Rado,fireball:     [Raduz,9] [Rasto,10] [Rene,11] [Robo,5] 
+2,Raduz,hammer:      [Pato,6] [Palo,3] [Peto,8] 
+2,Rasto,spear:       [Pato,4] [Palo,1] 
+2,Robo,wand:         [Pato,10] [Palo,7] [Peto,12] 
+1: Pato,40 Palo,67 Peto,40 Rado,100 
+2: Raduz,4 Rene,31 Robo,85 Rolo,100 
+
+Round 4
+1: Pato,40 Palo,67 Peto,40 Rado,100 
+2: Raduz,4 Rene,31 Robo,85 Rolo,100 
+1,Pato,axe:          [Raduz,8] [Rene,10] 
+1,Palo,wand:         [Raduz,10] [Rene,12] [Robo,6] 
+1,Palo,spear:        [Raduz,4] [Rene,6] 
+1,Peto,slingshot:    [Raduz,1] [Rene,2] 
+1,Rado,fireball:     [Raduz,9] [Rene,11] [Robo,5] [Rolo,11] 
+2,Raduz,hammer:      [Pato,6] [Palo,3] [Peto,8] 
+2,Robo,wand:         [Pato,10] [Palo,7] [Peto,12] 
+2,Rolo,fireball:     [Pato,9] [Palo,6] [Peto,11] [Rado,11] 
+2,Rolo,fireball:     [Pato,9] [Palo,6] [Peto,11] [Rado,11] 
+1: Pato,6 Palo,45 Rado,78 
+2: Robo,74 Rolo,89 
+
+Round 5
+1: Pato,6 Palo,45 Rado,78 
+2: Robo,74 Rolo,89 
+1,Pato,axe:          [Robo,4] [Rolo,10] 
+1,Palo,wand:         [Robo,6] [Rolo,12] 
+1,Palo,spear:        [Robo,1] [Rolo,6] 
+1,Rado,fireball:     [Robo,5] [Rolo,11] 
+2,Robo,sword:        [Pato,7] 
+2,Robo,wand:         [Pato,10] [Palo,7] [Rado,12] 
+2,Rolo,fireball:     [Pato,9] [Palo,6] [Rado,11] 
+2,Rolo,fireball:     [Pato,9] [Palo,6] [Rado,11] 
+1: Palo,26 Rado,44 
+2: Robo,58 Rolo,50 
+
+Round 6
+1: Palo,26 Rado,44 
+2: Robo,58 Rolo,50 
+1,Palo,wand:         [Robo,6] [Rolo,12] 
+1,Palo,spear:        [Robo,1] [Rolo,6] 
+1,Rado,fireball:     [Robo,5] [Rolo,11] 
+2,Robo,sword:        [Palo,4] 
+2,Robo,wand:         [Palo,7] [Rado,12] 
+2,Rolo,fireball:     [Palo,6] [Rado,11] 
+2,Rolo,fireball:     [Palo,6] [Rado,11] 
+1: Palo,3 Rado,10 
+2: Robo,46 Rolo,21 
+
+Round 7
+1: Palo,3 Rado,10 
+2: Robo,46 Rolo,21 
+1,Palo,wand:         [Robo,6] [Rolo,12] 
+1,Palo,spear:        [Robo,1] [Rolo,6] 
+1,Rado,fireball:     [Robo,5] [Rolo,11] 
+2,Robo,sword:        [Palo,4] 
+2,Robo,wand:         [Palo,7] [Rado,12] 
+2,Rolo,fireball:     [Palo,6] [Rado,11] 
+2,Rolo,fireball:     [Palo,6] [Rado,11] 
+1: 
+2: Robo,34 
+
+WINNER: 2

@@ -1,0 +1,182 @@
+Army 1
+    Unit: 0
+    Name: Dogger
+    HP: 100
+    Item 1: shield,2,6,1,0,0
+
+    Unit: 1
+    Name: Catter
+    HP: 100
+    Item 1: axe,10,2,2,1,1
+
+    Unit: 2
+    Name: Snaker
+    HP: 100
+    Item 1: hammer,8,2,2,1,2
+
+    Unit: 3
+    Name: Looper
+    HP: 100
+    Item 1: cannon,12,0,2,4,4
+
+Army 2
+    Unit: 0
+    Name: Hummer
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+
+    Unit: 1
+    Name: Reaper
+    HP: 100
+    Item 1: hammer,8,2,2,1,2
+
+    Unit: 2
+    Name: Sleeper
+    HP: 100
+    Item 1: cannon,12,0,2,4,4
+
+    Unit: 3
+    Name: Fisher
+    HP: 100
+    Item 1: spear,6,1,1,1,1
+    Item 2: sword,9,2,1,0,0
+
+Round 1
+1: Dogger,100 Catter,100 Snaker,100 Looper,100 
+2: Hummer,100 Reaper,100 Sleeper,100 Fisher,100 
+1,Dogger,shield:     [Hummer,1] 
+1,Catter,axe:        [Hummer,8] [Reaper,8] 
+1,Looper,cannon:     [Hummer,10] [Reaper,10] [Sleeper,12] [Fisher,9] 
+2,Hummer,sword:      [Dogger,3] 
+2,Reaper,hammer:     [Dogger,2] [Catter,6] [Snaker,6] 
+2,Sleeper,cannon:    [Dogger,6] [Catter,10] [Snaker,10] [Looper,12] 
+1: Dogger,89 Catter,84 Snaker,84 Looper,88 
+2: Hummer,81 Reaper,82 Sleeper,88 Fisher,91 
+
+Round 2
+1: Dogger,89 Catter,84 Snaker,84 Looper,88 
+2: Hummer,81 Reaper,82 Sleeper,88 Fisher,91 
+1,Dogger,shield:     [Hummer,1] 
+1,Catter,axe:        [Hummer,8] [Reaper,8] 
+1,Looper,cannon:     [Hummer,10] [Reaper,10] [Sleeper,12] [Fisher,9] 
+2,Hummer,sword:      [Dogger,3] 
+2,Reaper,hammer:     [Dogger,2] [Catter,6] [Snaker,6] 
+2,Sleeper,cannon:    [Dogger,6] [Catter,10] [Snaker,10] [Looper,12] 
+1: Dogger,78 Catter,68 Snaker,68 Looper,76 
+2: Hummer,62 Reaper,64 Sleeper,76 Fisher,82 
+
+Round 3
+1: Dogger,78 Catter,68 Snaker,68 Looper,76 
+2: Hummer,62 Reaper,64 Sleeper,76 Fisher,82 
+1,Dogger,shield:     [Hummer,1] 
+1,Catter,axe:        [Hummer,8] [Reaper,8] 
+1,Looper,cannon:     [Hummer,10] [Reaper,10] [Sleeper,12] [Fisher,9] 
+2,Hummer,sword:      [Dogger,3] 
+2,Reaper,hammer:     [Dogger,2] [Catter,6] [Snaker,6] 
+2,Sleeper,cannon:    [Dogger,6] [Catter,10] [Snaker,10] [Looper,12] 
+1: Dogger,67 Catter,52 Snaker,52 Looper,64 
+2: Hummer,43 Reaper,46 Sleeper,64 Fisher,73 
+
+Round 4
+1: Dogger,67 Catter,52 Snaker,52 Looper,64 
+2: Hummer,43 Reaper,46 Sleeper,64 Fisher,73 
+1,Dogger,shield:     [Hummer,1] 
+1,Catter,axe:        [Hummer,8] [Reaper,8] 
+1,Looper,cannon:     [Hummer,10] [Reaper,10] [Sleeper,12] [Fisher,9] 
+2,Hummer,sword:      [Dogger,3] 
+2,Reaper,hammer:     [Dogger,2] [Catter,6] [Snaker,6] 
+2,Sleeper,cannon:    [Dogger,6] [Catter,10] [Snaker,10] [Looper,12] 
+1: Dogger,56 Catter,36 Snaker,36 Looper,52 
+2: Hummer,24 Reaper,28 Sleeper,52 Fisher,64 
+
+Round 5
+1: Dogger,56 Catter,36 Snaker,36 Looper,52 
+2: Hummer,24 Reaper,28 Sleeper,52 Fisher,64 
+1,Dogger,shield:     [Hummer,1] 
+1,Catter,axe:        [Hummer,8] [Reaper,8] 
+1,Looper,cannon:     [Hummer,10] [Reaper,10] [Sleeper,12] [Fisher,9] 
+2,Hummer,sword:      [Dogger,3] 
+2,Reaper,hammer:     [Dogger,2] [Catter,6] [Snaker,6] 
+2,Sleeper,cannon:    [Dogger,6] [Catter,10] [Snaker,10] [Looper,12] 
+1: Dogger,45 Catter,20 Snaker,20 Looper,40 
+2: Hummer,5 Reaper,10 Sleeper,40 Fisher,55 
+
+Round 6
+1: Dogger,45 Catter,20 Snaker,20 Looper,40 
+2: Hummer,5 Reaper,10 Sleeper,40 Fisher,55 
+1,Dogger,shield:     [Hummer,1] 
+1,Catter,axe:        [Hummer,8] [Reaper,8] 
+1,Looper,cannon:     [Hummer,10] [Reaper,10] [Sleeper,12] [Fisher,9] 
+2,Hummer,sword:      [Dogger,3] 
+2,Reaper,hammer:     [Dogger,2] [Catter,6] [Snaker,6] 
+2,Sleeper,cannon:    [Dogger,6] [Catter,10] [Snaker,10] [Looper,12] 
+1: Dogger,34 Catter,4 Snaker,4 Looper,28 
+2: Sleeper,28 Fisher,46 
+
+Round 7
+1: Dogger,34 Catter,4 Snaker,4 Looper,28 
+2: Sleeper,28 Fisher,46 
+1,Dogger,shield:     [Sleeper,2] 
+1,Catter,axe:        [Sleeper,10] [Fisher,7] 
+1,Looper,cannon:     [Sleeper,12] [Fisher,9] 
+2,Sleeper,cannon:    [Dogger,6] [Catter,10] [Snaker,10] [Looper,12] 
+2,Fisher,spear:      [Dogger,1] [Catter,4] 
+1: Dogger,27 Looper,16 
+2: Sleeper,4 Fisher,30 
+
+Round 8
+1: Dogger,27 Looper,16 
+2: Sleeper,4 Fisher,30 
+1,Dogger,shield:     [Sleeper,2] 
+1,Looper,cannon:     [Sleeper,12] [Fisher,9] 
+2,Sleeper,cannon:    [Dogger,6] [Looper,12] 
+2,Fisher,spear:      [Dogger,1] [Looper,6] 
+1: Dogger,20 
+2: Fisher,21 
+
+Round 9
+1: Dogger,20 
+2: Fisher,21 
+1,Dogger,shield:     [Fisher,1] 
+2,Fisher,spear:      [Dogger,1] 
+2,Fisher,sword:      [Dogger,3] 
+1: Dogger,16 
+2: Fisher,20 
+
+Round 10
+1: Dogger,16 
+2: Fisher,20 
+1,Dogger,shield:     [Fisher,1] 
+2,Fisher,spear:      [Dogger,1] 
+2,Fisher,sword:      [Dogger,3] 
+1: Dogger,12 
+2: Fisher,19 
+
+Round 11
+1: Dogger,12 
+2: Fisher,19 
+1,Dogger,shield:     [Fisher,1] 
+2,Fisher,spear:      [Dogger,1] 
+2,Fisher,sword:      [Dogger,3] 
+1: Dogger,8 
+2: Fisher,18 
+
+Round 12
+1: Dogger,8 
+2: Fisher,18 
+1,Dogger,shield:     [Fisher,1] 
+2,Fisher,spear:      [Dogger,1] 
+2,Fisher,sword:      [Dogger,3] 
+1: Dogger,4 
+2: Fisher,17 
+
+Round 13
+1: Dogger,4 
+2: Fisher,17 
+1,Dogger,shield:     [Fisher,1] 
+2,Fisher,spear:      [Dogger,1] 
+2,Fisher,sword:      [Dogger,3] 
+1: 
+2: Fisher,16 
+
+WINNER: 2

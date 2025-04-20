@@ -1,0 +1,83 @@
+Army 1
+    Unit: 0
+    Name: Jozo
+    HP: 100
+    Item 1: spear,6,1,1,1,1
+
+    Unit: 1
+    Name: Denis
+    HP: 100
+    Item 1: slingshot,2,0,2,2,1
+
+    Unit: 2
+    Name: Lubo
+    HP: 100
+    Item 1: cannon,12,0,2,4,4
+
+Army 2
+    Unit: 0
+    Name: Riso
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+
+    Unit: 1
+    Name: Tomas
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: gloves,1,4,1,0,0
+
+Round 1
+1: Jozo,100 Denis,100 Lubo,100 
+2: Riso,100 Tomas,100 
+1,Jozo,spear:        [Riso,6] [Tomas,2] 
+1,Denis,slingshot:   [Riso,2] [Tomas,1] 
+1,Lubo,cannon:       [Riso,12] [Tomas,8] 
+2,Riso,dagger:       [Jozo,3] 
+2,Tomas,fireball:    [Jozo,10] [Denis,11] [Lubo,11] 
+1: Jozo,87 Denis,89 Lubo,89 
+2: Riso,80 Tomas,89 
+
+Round 2
+1: Jozo,87 Denis,89 Lubo,89 
+2: Riso,80 Tomas,89 
+1,Jozo,spear:        [Riso,6] [Tomas,2] 
+1,Denis,slingshot:   [Riso,2] [Tomas,1] 
+1,Lubo,cannon:       [Riso,12] [Tomas,8] 
+2,Riso,dagger:       [Jozo,3] 
+2,Tomas,fireball:    [Jozo,10] [Denis,11] [Lubo,11] 
+1: Jozo,74 Denis,78 Lubo,78 
+2: Riso,60 Tomas,78 
+
+Round 3
+1: Jozo,74 Denis,78 Lubo,78 
+2: Riso,60 Tomas,78 
+1,Jozo,spear:        [Riso,6] [Tomas,2] 
+1,Denis,slingshot:   [Riso,2] [Tomas,1] 
+1,Lubo,cannon:       [Riso,12] [Tomas,8] 
+2,Riso,dagger:       [Jozo,3] 
+2,Tomas,fireball:    [Jozo,10] [Denis,11] [Lubo,11] 
+1: Jozo,61 Denis,67 Lubo,67 
+2: Riso,40 Tomas,67 
+
+Round 4
+1: Jozo,61 Denis,67 Lubo,67 
+2: Riso,40 Tomas,67 
+1,Jozo,spear:        [Riso,6] [Tomas,2] 
+1,Denis,slingshot:   [Riso,2] [Tomas,1] 
+1,Lubo,cannon:       [Riso,12] [Tomas,8] 
+2,Riso,dagger:       [Jozo,3] 
+2,Tomas,fireball:    [Jozo,10] [Denis,11] [Lubo,11] 
+1: Jozo,48 Denis,56 Lubo,56 
+2: Riso,20 Tomas,56 
+
+Round 5
+1: Jozo,48 Denis,56 Lubo,56 
+2: Riso,20 Tomas,56 
+1,Jozo,spear:        [Riso,6] [Tomas,2] 
+1,Denis,slingshot:   [Riso,2] [Tomas,1] 
+1,Lubo,cannon:       [Riso,12] [Tomas,8] 
+2,Riso,dagger:       [Jozo,3] 
+2,Tomas,fireball:    [Jozo,10] [Denis,11] [Lubo,11] 
+1: Jozo,35 Denis,45 Lubo,45 
+2: Tomas,45 
+

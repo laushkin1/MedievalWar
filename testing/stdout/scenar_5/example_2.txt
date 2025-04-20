@@ -1,0 +1,83 @@
+Army 1
+    Unit: 0
+    Name: Sebo
+    HP: 100
+    Item 1: fireball,11,0,1,3,3
+    Item 2: wand,12,4,1,4,2
+
+Army 2
+    Unit: 0
+    Name: Rishi
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+
+    Unit: 1
+    Name: Silvo
+    HP: 100
+    Item 1: cannon,12,0,2,4,4
+
+    Unit: 2
+    Name: Slavo
+    HP: 100
+    Item 1: sword,9,2,1,0,0
+
+Round 1
+1: Sebo,100 
+2: Rishi,100 Silvo,100 Slavo,100 
+1,Sebo,fireball:     [Rishi,11] [Silvo,11] [Slavo,9] 
+1,Sebo,wand:         [Rishi,12] [Silvo,12] [Slavo,10] 
+2,Rishi,dagger:      [Sebo,1] 
+2,Silvo,cannon:      [Sebo,8] 
+1: Sebo,91 
+2: Rishi,77 Silvo,77 Slavo,81 
+
+Round 2
+1: Sebo,91 
+2: Rishi,77 Silvo,77 Slavo,81 
+1,Sebo,fireball:     [Rishi,11] [Silvo,11] [Slavo,9] 
+1,Sebo,wand:         [Rishi,12] [Silvo,12] [Slavo,10] 
+2,Rishi,dagger:      [Sebo,1] 
+2,Silvo,cannon:      [Sebo,8] 
+1: Sebo,82 
+2: Rishi,54 Silvo,54 Slavo,62 
+
+Round 3
+1: Sebo,82 
+2: Rishi,54 Silvo,54 Slavo,62 
+1,Sebo,fireball:     [Rishi,11] [Silvo,11] [Slavo,9] 
+1,Sebo,wand:         [Rishi,12] [Silvo,12] [Slavo,10] 
+2,Rishi,dagger:      [Sebo,1] 
+2,Silvo,cannon:      [Sebo,8] 
+1: Sebo,73 
+2: Rishi,31 Silvo,31 Slavo,43 
+
+Round 4
+1: Sebo,73 
+2: Rishi,31 Silvo,31 Slavo,43 
+1,Sebo,fireball:     [Rishi,11] [Silvo,11] [Slavo,9] 
+1,Sebo,wand:         [Rishi,12] [Silvo,12] [Slavo,10] 
+2,Rishi,dagger:      [Sebo,1] 
+2,Silvo,cannon:      [Sebo,8] 
+1: Sebo,64 
+2: Rishi,8 Silvo,8 Slavo,24 
+
+Round 5
+1: Sebo,64 
+2: Rishi,8 Silvo,8 Slavo,24 
+1,Sebo,fireball:     [Rishi,11] [Silvo,11] [Slavo,9] 
+1,Sebo,wand:         [Rishi,12] [Silvo,12] [Slavo,10] 
+2,Rishi,dagger:      [Sebo,1] 
+2,Silvo,cannon:      [Sebo,8] 
+1: Sebo,55 
+2: Slavo,5 
+
+Round 6
+1: Sebo,55 
+2: Slavo,5 
+1,Sebo,fireball:     [Slavo,9] 
+1,Sebo,wand:         [Slavo,10] 
+2,Slavo,sword:       [Sebo,5] 
+1: Sebo,50 
+2: 
+
+WINNER: 1

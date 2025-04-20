@@ -1,0 +1,25 @@
+Army 1
+    Unit: 0
+    Name: Simon
+    HP: 100
+    Item 1: dagger,4,0,1,0,0
+    Item 2: dagger,4,0,1,0,0
+
+    Unit: 1
+    Name: Denis
+    HP: 100
+    Item 1: rock,3,0,1,2,1
+    Item 2: rock,3,0,1,2,1
+
+    Unit: 2
+    Name: Kristof
+    HP: 100
+    Item 1: helmet,1,5,1,0,0
+    Item 2: helmet,1,5,1,0,0
+
+Army 2
+    Unit: 0
+    Name: Mario
+    HP: 100
+    Item 1: shield,2,6,1,0,0
+    Item 2: sword,9,2,1,0,0
