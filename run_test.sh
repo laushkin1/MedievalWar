@@ -1,7 +1,7 @@
 #!/bin/bash
 
-EXEC="./cmake-build-debug/z4" # Path to the executable file
-TEST_DIR="z4_testing" # Path to tests dir
+EXEC="./cmake-build-debug/game"
+TEST_DIR="testing"
 
 for scenario in "$TEST_DIR"/stdin/scenar*/; do
     scenario_name=$(basename "$scenario")
