@@ -6,7 +6,7 @@ add_compile_options(-Wall -Wextra -Wuninitialized -pedantic -g)
 
 add_executable(game src/data.c src/main.c)
 target_include_directories(game PRIVATE include)
-target_link_libraries(game -lm)
+target_link_libraries(game -lncurses -lm)
 
 
 
