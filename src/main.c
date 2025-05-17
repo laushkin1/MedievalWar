@@ -89,7 +89,7 @@ int main(void) {
     bkgd(COLOR_PAIR(3));
 
     // Catch error
-    if (LINES < 25 || COLS < 80) {
+    if (LINES < 24 || COLS < 80) {
         endwin();
         printf("Terminal size too small. Please resize to at least 80x25.\n");
         return 1;
@@ -739,31 +739,47 @@ int unit_selection_menu(UNIT* emptyArray, bool* unitAvailability, bool *used_fla
         // Description
         attron(COLOR_PAIR(4));
         mvprintw(2, info_x, "Description:");
-        mvprintw(3, info_x, "%.*s", COLS-info_x-1, current_unit->description);
+
+        // Print description with wrapping
+        const char* desc = current_unit->description;
+        int desc_line = 0;
+        int max_line_length = COLS - info_x - 5;
+
+        while (*desc && desc_line < 5) {
+            int line_length = (int)strlen(desc) > max_line_length ? max_line_length : strlen(desc);
+            char line[256];
+            strncpy(line, desc, line_length);
+            line[line_length] = '\0';
+            mvprintw(3 + desc_line, info_x, "%s", line);
+            desc += line_length;
+            desc_line++;
+        }
+
+        // mvprintw(3, info_x, "%.*s", COLS-info_x-1, current_unit->description);
         attroff(COLOR_PAIR(4));
 
         attron(COLOR_PAIR(3));
-        mvprintw(5, info_x, "HP: %d", current_unit->hp);
+        mvprintw(5+desc_line, info_x, "HP: %d", current_unit->hp);
         attroff(COLOR_PAIR(3));
 
 
         // Item 1
         attron(COLOR_PAIR(5));
-        mvprintw(7, info_x, "Item 1: %s", current_unit->item1->name);
-        mvprintw(8, info_x, "  Attack: %d", current_unit->item1->att);
-        mvprintw(9, info_x, "  Defense: %d", current_unit->item1->def);
-        mvprintw(10, info_x, "  Range: %d", current_unit->item1->range);
-        mvprintw(11, info_x, "  Radius: %d", current_unit->item1->radius);
+        mvprintw(7+desc_line, info_x, "Item 1: %s", current_unit->item1->name);
+        mvprintw(8+desc_line, info_x, "  Attack: %d", current_unit->item1->att);
+        mvprintw(9+desc_line, info_x, "  Defense: %d", current_unit->item1->def);
+        mvprintw(10+desc_line, info_x, "  Range: %d", current_unit->item1->range);
+        mvprintw(11+desc_line, info_x, "  Radius: %d", current_unit->item1->radius);
         attroff(COLOR_PAIR(5));
 
         // Item 2
         if (current_unit->item2) {
             attron(COLOR_PAIR(5));
-            mvprintw(13, info_x, "Item 2: %s", current_unit->item2->name);
-            mvprintw(14, info_x, "  Attack: %d", current_unit->item2->att);
-            mvprintw(15, info_x, "  Defense: %d", current_unit->item2->def);
-            mvprintw(16, info_x, "  Range: %d", current_unit->item2->range);
-            mvprintw(17, info_x, "  Radius: %d", current_unit->item2->radius);
+            mvprintw(13+desc_line, info_x, "Item 2: %s", current_unit->item2->name);
+            mvprintw(14+desc_line, info_x, "  Attack: %d", current_unit->item2->att);
+            mvprintw(15+desc_line, info_x, "  Defense: %d", current_unit->item2->def);
+            mvprintw(16+desc_line, info_x, "  Range: %d", current_unit->item2->range);
+            mvprintw(17+desc_line, info_x, "  Radius: %d", current_unit->item2->radius);
             attroff(COLOR_PAIR(5));
         }
 
@@ -1147,6 +1163,9 @@ void fight(UNIT AttackingArmy[], UNIT UnderAttackArmy[], int AttackingArmySize, 
                             // Print move message
                             attron(COLOR_PAIR(3));
                             mvprintw(bottom + 4, offset_x, "Unit moved to (%d, %d)", cursor_row, cursor_col);
+                            attron(COLOR_PAIR(2) | A_DIM);
+                            mvprintw(bottom + 7, offset_x, "Press any button to continue", cursor_row, cursor_col);
+                            attroff(COLOR_PAIR(2) | A_DIM);
                             attroff(COLOR_PAIR(3));
                             refresh();
                             getch();
@@ -1172,6 +1191,9 @@ void fight(UNIT AttackingArmy[], UNIT UnderAttackArmy[], int AttackingArmySize, 
                             mvprintw(bottom + 5, offset_x, "for %d damage!", damage);
                             mvprintw(bottom + 6, offset_x, "%s HP: %d",
                                    defender->name, defender->hp > 0 ? defender->hp : 0);
+                            attron(COLOR_PAIR(2) | A_DIM);
+                            mvprintw(bottom + 7, offset_x, "Press any button to continue");
+                            attroff(COLOR_PAIR(2) | A_DIM);
                             attroff(COLOR_PAIR(3));
                             refresh();
                             getch();
@@ -1478,6 +1500,9 @@ void autopilot(UNIT AttackingArmy[], UNIT UnderAttackArmy[], int AttackingArmySi
         mvprintw(bottom + 5, offset_x, "for %d damage!", damage);
         mvprintw(bottom + 6, offset_x, "%s HP: %d",
                defender->name, defender->hp > 0 ? defender->hp : 0);
+        attron(COLOR_PAIR(3) | A_DIM);
+        mvprintw(bottom + 7, offset_x, "Press any button to continue");
+        attroff(COLOR_PAIR(3) | A_DIM);
         attroff(COLOR_PAIR(3));
         refresh();
 
@@ -1513,6 +1538,9 @@ void autopilot(UNIT AttackingArmy[], UNIT UnderAttackArmy[], int AttackingArmySi
             // Move message
             attron(COLOR_PAIR(3));
             mvprintw(bottom + 4, offset_x, "Unit moved to (%d, %d)", cursor_row, cursor_col);
+            attron(COLOR_PAIR(3) | A_DIM);
+            mvprintw(bottom + 7, offset_x, "Press any button to continue", cursor_row, cursor_col);
+            attroff(COLOR_PAIR(3) | A_DIM);
             attroff(COLOR_PAIR(3));
             refresh();
         }
